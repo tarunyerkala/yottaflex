@@ -7,12 +7,6 @@
 [![Tests](https://img.shields.io/badge/Tests-25%20Passed-success.svg)]()
 [![Seed](https://img.shields.io/badge/Seed-20261022-purple.svg)]()
 
-> **Engineered by Tarun Yerkala** ([GitHub: @tarunyerkala](https://github.com/tarunyerkala))  
-> *An End-to-End Enterprise Recruitment Platform built with deterministic AI screening, calendar collision detection, compensation governance, active anomaly sentinels, and immutable audit traceability.*
-
----
-
-## 👨‍💻 Candidate's Statement & Problem Overview
 
 Hi! I built **YottaFlex AI** to tackle the fundamental failure modes common in modern enterprise recruitment workflows:
 1. **Black-Box AI Screening**: Many systems reject candidates with opaque algorithms that risk demographic bias and leave candidates without actionable feedback.
