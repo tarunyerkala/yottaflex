@@ -1,0 +1,162 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "exported_at": "2026-10-26T15:22:41.574454",
+  "format": "csv",
+  "tables": [
+    {
+      "table_name": "departments",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\departments.csv",
+      "row_count": 10,
+      "sha256": "244199cef9e0aadd6f2ee7a7c94a6b21099e3137abccef5f04af1e76c9cd2d82"
+    },
+    {
+      "table_name": "skills",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\skills.csv",
+      "row_count": 25,
+      "sha256": "2ff611fb87be674434f8eee4e9eb6570ad30556bc7b823c9ee292865303b21fc"
+    },
+    {
+      "table_name": "job_requisitions",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\job_requisitions.csv",
+      "row_count": 100,
+      "sha256": "5bb2b039f39493f4371d4965695aee0c7c018b4425a907c7e63c48a73e62fd14"
+    },
+    {
+      "table_name": "requisition_skills",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\requisition_skills.csv",
+      "row_count": 403,
+      "sha256": "88e20c5acef518251ce698a9a5b53bfa90ee3bcecff53de6770fc24f87933284"
+    },
+    {
+      "table_name": "requisition_approvals",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\requisition_approvals.csv",
+      "row_count": 100,
+      "sha256": "2412e4f91a3180e4348c669f54176c19c4d855bfef155bc49cb46806cf2a2a5c"
+    },
+    {
+      "table_name": "candidates",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\candidates.csv",
+      "row_count": 2000,
+      "sha256": "169f5d66f70ed11fd207420d63ad0439ad4c17eb7e2d885fc6a49a4106458d52"
+    },
+    {
+      "table_name": "candidate_skills",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\candidate_skills.csv",
+      "row_count": 12102,
+      "sha256": "a4cea78646a365331fcf75904e5a959824ea0c397b44774226136b1c34f64669"
+    },
+    {
+      "table_name": "resume_artifacts",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\resume_artifacts.csv",
+      "row_count": 2000,
+      "sha256": "0064c053cdacf6fd1562e9d54d9423cc01b504c144859a1a7f7afe93e70b32ef"
+    },
+    {
+      "table_name": "screening_rules",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\screening_rules.csv",
+      "row_count": 1,
+      "sha256": "ea610dbe1ccc189cf64b4ea3b7c8528e2ff33b0bc374fb6b7c7b7cd587efbdbc"
+    },
+    {
+      "table_name": "applications",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\applications.csv",
+      "row_count": 3001,
+      "sha256": "55aa24b18152c6a35f80305f1356452180c156bae0f2de54fb0c3ff2f573a578"
+    },
+    {
+      "table_name": "screening_evaluations",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\screening_evaluations.csv",
+      "row_count": 3000,
+      "sha256": "1fff2af8b312063a4d079e65dd98f4feba8b2943198218a74277a8478a5ee523"
+    },
+    {
+      "table_name": "application_stage_history",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\application_stage_history.csv",
+      "row_count": 6600,
+      "sha256": "977e058ff8769b23b731a6c01731ea9c277fa564c401b88ae62f5ab4762576f5"
+    },
+    {
+      "table_name": "interviewers",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\interviewers.csv",
+      "row_count": 20,
+      "sha256": "7f5ae4d51dce20e049c8376f547f713588aa44f92a525ac3bd09d285b5b7b911"
+    },
+    {
+      "table_name": "interviewer_availabilities",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\interviewer_availabilities.csv",
+      "row_count": 100,
+      "sha256": "c5110e7983335d6c5c0e589f48900a10558dc42a6cf0e13547044b2e48f9acf4"
+    },
+    {
+      "table_name": "interviews",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\interviews.csv",
+      "row_count": 602,
+      "sha256": "08d5c04b7e6227dc37238c4e9b0d5c75303ef1ec829220896bab3f84f95375a3"
+    },
+    {
+      "table_name": "interview_panel_members",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\interview_panel_members.csv",
+      "row_count": 1203,
+      "sha256": "6b549a73b48a6ce712ef028ef20ed16356381f10cca0f98b323c2fc6d96b9dd5"
+    },
+    {
+      "table_name": "feedbacks",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\feedbacks.csv",
+      "row_count": 1200,
+      "sha256": "b7df690ff5e123b8f4c677230a6c1e163a1b04b65f3d5eb23feb7752630e8d24"
+    },
+    {
+      "table_name": "offers",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\offers.csv",
+      "row_count": 151,
+      "sha256": "7b6da92d21ffb6b1af972caf9e0fb08449f5cda538f8cf744c8697a6319cde50"
+    },
+    {
+      "table_name": "offer_approvals",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\offer_approvals.csv",
+      "row_count": 150,
+      "sha256": "f78c46b42833f14cb708273822e246fa4a87d1fd37ad336c07be11fa356d2d61"
+    },
+    {
+      "table_name": "offer_status_history",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\offer_status_history.csv",
+      "row_count": 285,
+      "sha256": "774b02562b1ca96b3c27c5a32e92df718b031105144ba3e6d5254373d881a4b5"
+    },
+    {
+      "table_name": "audit_events",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\audit_events.csv",
+      "row_count": 6505,
+      "sha256": "4ccc558639ab8906467f031af96857e60ba59b1ac01631b1b67c491b616d10ad"
+    },
+    {
+      "table_name": "anomaly_records",
+      "format": "csv",
+      "file_path": "C:\\yottaflex\\data\\exports\\csv\\anomaly_records.csv",
+      "row_count": 5,
+      "sha256": "9513845a67c1a2fa20f13e6b94f4f254afa945135a958a6716579799f145d083"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+id,interviewer_id,full_name,email,department_id,expertise_areas,is_active,created_at
+1,INTVR-001,Jamie Lopez,jamie.lopez1@example.test,2,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+2,INTVR-002,Rowan Verma,rowan.verma2@example.test,3,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+3,INTVR-003,Priya Zhao,priya.zhao3@example.test,4,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+4,INTVR-004,Rahul Jones,rahul.jones4@example.test,5,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+5,INTVR-005,Jun Thomas,jun.thomas5@example.test,6,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+6,INTVR-006,Sofia Iyer,sofia.iyer6@example.test,7,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+7,INTVR-007,Nicolas Huang,nicolas.huang7@example.test,8,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+8,INTVR-008,Avery Rodriguez,avery.rodriguez8@example.test,9,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+9,INTVR-009,Harper Martin,harper.martin9@example.test,10,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+10,INTVR-010,Arjun Zhang,arjun.zhang10@example.test,1,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+11,INTVR-011,Neha Johnson,neha.johnson11@example.test,2,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+12,INTVR-012,Yan Gonzalez,yan.gonzalez12@example.test,3,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+13,INTVR-013,Mateo Rao,mateo.rao13@example.test,4,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+14,INTVR-014,Valentina Chen,valentina.chen14@example.test,5,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+15,INTVR-015,Riley Garcia,riley.garcia15@example.test,6,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+16,INTVR-016,Reese Taylor,reese.taylor16@example.test,7,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+17,INTVR-017,Kendall Nair,kendall.nair17@example.test,8,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+18,INTVR-018,Aditya Wu,aditya.wu18@example.test,9,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+19,INTVR-019,Fang Martinez,fang.martinez19@example.test,10,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00
+20,INTVR-020,Elena Patel,elena.patel20@example.test,1,"[""Python"", ""System Design"", ""Testing""]",True,2026-01-02T09:00:00

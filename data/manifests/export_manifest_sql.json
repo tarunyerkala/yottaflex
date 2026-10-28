@@ -1,0 +1,15 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "exported_at": "2026-10-26T15:23:38.860057",
+  "format": "sql",
+  "tables": [
+    {
+      "table_name": "all_tables_sql",
+      "format": "sql",
+      "file_path": "C:\\yottaflex\\data\\exports\\sql\\seed_data.sql",
+      "row_count": 39563,
+      "sha256": "8779c630c463d2b25742f25503eab623df71cf4ea71d289f6a5d0d81034acd72"
+    }
+  ]
+}

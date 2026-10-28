@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "department_id": "DEP-ENG",
+    "name": "Engineering",
+    "code": "ENG",
+    "cost_center": "CC-1001",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 2,
+    "department_id": "DEP-PROD",
+    "name": "Product Management",
+    "code": "PROD",
+    "cost_center": "CC-1002",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 3,
+    "department_id": "DEP-DES",
+    "name": "Product Design",
+    "code": "DES",
+    "cost_center": "CC-1003",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 4,
+    "department_id": "DEP-DATA",
+    "name": "Data Science & AI",
+    "code": "DATA",
+    "cost_center": "CC-1004",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 5,
+    "department_id": "DEP-QA",
+    "name": "Quality Assurance",
+    "code": "QA",
+    "cost_center": "CC-1005",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 6,
+    "department_id": "DEP-SEC",
+    "name": "Information Security",
+    "code": "SEC",
+    "cost_center": "CC-1006",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 7,
+    "department_id": "DEP-OPS",
+    "name": "DevOps & Cloud Infrastructure",
+    "code": "OPS",
+    "cost_center": "CC-1007",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 8,
+    "department_id": "DEP-MKTG",
+    "name": "Marketing & Growth",
+    "code": "MKTG",
+    "cost_center": "CC-2001",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 9,
+    "department_id": "DEP-SALES",
+    "name": "Enterprise Sales",
+    "code": "SALES",
+    "cost_center": "CC-2002",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 10,
+    "department_id": "DEP-PEOPLE",
+    "name": "People Operations & HR",
+    "code": "HR",
+    "cost_center": "CC-3001",
+    "created_at": "2026-01-01T08:00:00"
+  }
+]

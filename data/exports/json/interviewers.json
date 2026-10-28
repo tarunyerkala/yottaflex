@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "interviewer_id": "INTVR-001",
+    "full_name": "Jamie Lopez",
+    "email": "jamie.lopez1@example.test",
+    "department_id": 2,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 2,
+    "interviewer_id": "INTVR-002",
+    "full_name": "Rowan Verma",
+    "email": "rowan.verma2@example.test",
+    "department_id": 3,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 3,
+    "interviewer_id": "INTVR-003",
+    "full_name": "Priya Zhao",
+    "email": "priya.zhao3@example.test",
+    "department_id": 4,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 4,
+    "interviewer_id": "INTVR-004",
+    "full_name": "Rahul Jones",
+    "email": "rahul.jones4@example.test",
+    "department_id": 5,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 5,
+    "interviewer_id": "INTVR-005",
+    "full_name": "Jun Thomas",
+    "email": "jun.thomas5@example.test",
+    "department_id": 6,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 6,
+    "interviewer_id": "INTVR-006",
+    "full_name": "Sofia Iyer",
+    "email": "sofia.iyer6@example.test",
+    "department_id": 7,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 7,
+    "interviewer_id": "INTVR-007",
+    "full_name": "Nicolas Huang",
+    "email": "nicolas.huang7@example.test",
+    "department_id": 8,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 8,
+    "interviewer_id": "INTVR-008",
+    "full_name": "Avery Rodriguez",
+    "email": "avery.rodriguez8@example.test",
+    "department_id": 9,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 9,
+    "interviewer_id": "INTVR-009",
+    "full_name": "Harper Martin",
+    "email": "harper.martin9@example.test",
+    "department_id": 10,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 10,
+    "interviewer_id": "INTVR-010",
+    "full_name": "Arjun Zhang",
+    "email": "arjun.zhang10@example.test",
+    "department_id": 1,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 11,
+    "interviewer_id": "INTVR-011",
+    "full_name": "Neha Johnson",
+    "email": "neha.johnson11@example.test",
+    "department_id": 2,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 12,
+    "interviewer_id": "INTVR-012",
+    "full_name": "Yan Gonzalez",
+    "email": "yan.gonzalez12@example.test",
+    "department_id": 3,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 13,
+    "interviewer_id": "INTVR-013",
+    "full_name": "Mateo Rao",
+    "email": "mateo.rao13@example.test",
+    "department_id": 4,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 14,
+    "interviewer_id": "INTVR-014",
+    "full_name": "Valentina Chen",
+    "email": "valentina.chen14@example.test",
+    "department_id": 5,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 15,
+    "interviewer_id": "INTVR-015",
+    "full_name": "Riley Garcia",
+    "email": "riley.garcia15@example.test",
+    "department_id": 6,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 16,
+    "interviewer_id": "INTVR-016",
+    "full_name": "Reese Taylor",
+    "email": "reese.taylor16@example.test",
+    "department_id": 7,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 17,
+    "interviewer_id": "INTVR-017",
+    "full_name": "Kendall Nair",
+    "email": "kendall.nair17@example.test",
+    "department_id": 8,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 18,
+    "interviewer_id": "INTVR-018",
+    "full_name": "Aditya Wu",
+    "email": "aditya.wu18@example.test",
+    "department_id": 9,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 19,
+    "interviewer_id": "INTVR-019",
+    "full_name": "Fang Martinez",
+    "email": "fang.martinez19@example.test",
+    "department_id": 10,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  },
+  {
+    "id": 20,
+    "interviewer_id": "INTVR-020",
+    "full_name": "Elena Patel",
+    "email": "elena.patel20@example.test",
+    "department_id": 1,
+    "expertise_areas": "[\"Python\", \"System Design\", \"Testing\"]",
+    "is_active": true,
+    "created_at": "2026-01-02T09:00:00"
+  }
+]

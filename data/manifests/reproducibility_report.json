@@ -1,0 +1,140 @@
+{
+  "seed": 20261022,
+  "scale": "starter",
+  "verified_at": "26 October 2026 20:47:39",
+  "all_matched": true,
+  "table_comparisons": [
+    {
+      "table": "departments",
+      "run1_sha256": "244199cef9e0aadd6f2ee7a7c94a6b21099e3137abccef5f04af1e76c9cd2d82",
+      "run2_sha256": "244199cef9e0aadd6f2ee7a7c94a6b21099e3137abccef5f04af1e76c9cd2d82",
+      "matched": true
+    },
+    {
+      "table": "skills",
+      "run1_sha256": "2ff611fb87be674434f8eee4e9eb6570ad30556bc7b823c9ee292865303b21fc",
+      "run2_sha256": "2ff611fb87be674434f8eee4e9eb6570ad30556bc7b823c9ee292865303b21fc",
+      "matched": true
+    },
+    {
+      "table": "job_requisitions",
+      "run1_sha256": "05337e50a49b88fd7956479b1213870bb115881909e02e0830369a392b53002b",
+      "run2_sha256": "05337e50a49b88fd7956479b1213870bb115881909e02e0830369a392b53002b",
+      "matched": true
+    },
+    {
+      "table": "requisition_skills",
+      "run1_sha256": "33bc187ea71a03206eeb1108f0d617caab3c01ba429af63aba57b9d4868c0bff",
+      "run2_sha256": "33bc187ea71a03206eeb1108f0d617caab3c01ba429af63aba57b9d4868c0bff",
+      "matched": true
+    },
+    {
+      "table": "requisition_approvals",
+      "run1_sha256": "c58e4121351b325b184a3148979ca5d1862596f65e8206ce2322c58385c5b776",
+      "run2_sha256": "c58e4121351b325b184a3148979ca5d1862596f65e8206ce2322c58385c5b776",
+      "matched": true
+    },
+    {
+      "table": "candidates",
+      "run1_sha256": "ee874d3af5ff8d7070978e485fed0714659329ed995115f87999bd564f636de2",
+      "run2_sha256": "ee874d3af5ff8d7070978e485fed0714659329ed995115f87999bd564f636de2",
+      "matched": true
+    },
+    {
+      "table": "candidate_skills",
+      "run1_sha256": "1395dc7604e489041413a466948b29e2f767de4a1d0b6a38f01023a19d729552",
+      "run2_sha256": "1395dc7604e489041413a466948b29e2f767de4a1d0b6a38f01023a19d729552",
+      "matched": true
+    },
+    {
+      "table": "resume_artifacts",
+      "run1_sha256": "2c503de39a9ce1484ea2913354ed0259b52c12dda145c1bd697fc7e8f6400e55",
+      "run2_sha256": "2c503de39a9ce1484ea2913354ed0259b52c12dda145c1bd697fc7e8f6400e55",
+      "matched": true
+    },
+    {
+      "table": "screening_rules",
+      "run1_sha256": "ea610dbe1ccc189cf64b4ea3b7c8528e2ff33b0bc374fb6b7c7b7cd587efbdbc",
+      "run2_sha256": "ea610dbe1ccc189cf64b4ea3b7c8528e2ff33b0bc374fb6b7c7b7cd587efbdbc",
+      "matched": true
+    },
+    {
+      "table": "applications",
+      "run1_sha256": "785ebc57d4904936cc55f2d4f8fb47e446fd87827dfdda0cf6edee614aadb181",
+      "run2_sha256": "785ebc57d4904936cc55f2d4f8fb47e446fd87827dfdda0cf6edee614aadb181",
+      "matched": true
+    },
+    {
+      "table": "screening_evaluations",
+      "run1_sha256": "85c2eff03c1df04872dc29fe7e781a3988e033276fbe95feac55ac2efd37e2a9",
+      "run2_sha256": "85c2eff03c1df04872dc29fe7e781a3988e033276fbe95feac55ac2efd37e2a9",
+      "matched": true
+    },
+    {
+      "table": "application_stage_history",
+      "run1_sha256": "8b357dc1d4449471e830204f88e6500cce742d59ef47dc10c3ab550cdf284bbc",
+      "run2_sha256": "8b357dc1d4449471e830204f88e6500cce742d59ef47dc10c3ab550cdf284bbc",
+      "matched": true
+    },
+    {
+      "table": "interviewers",
+      "run1_sha256": "7f5ae4d51dce20e049c8376f547f713588aa44f92a525ac3bd09d285b5b7b911",
+      "run2_sha256": "7f5ae4d51dce20e049c8376f547f713588aa44f92a525ac3bd09d285b5b7b911",
+      "matched": true
+    },
+    {
+      "table": "interviewer_availabilities",
+      "run1_sha256": "c5110e7983335d6c5c0e589f48900a10558dc42a6cf0e13547044b2e48f9acf4",
+      "run2_sha256": "c5110e7983335d6c5c0e589f48900a10558dc42a6cf0e13547044b2e48f9acf4",
+      "matched": true
+    },
+    {
+      "table": "interviews",
+      "run1_sha256": "cefbdbd6df13e3900c171affb399933f5b9a935d693cbbb0025d6a9f19869b9c",
+      "run2_sha256": "cefbdbd6df13e3900c171affb399933f5b9a935d693cbbb0025d6a9f19869b9c",
+      "matched": true
+    },
+    {
+      "table": "interview_panel_members",
+      "run1_sha256": "e3abc2a5b437de2a4a72eae4909e79a97e6fd01be75ddbf4417436ee2a69ab20",
+      "run2_sha256": "e3abc2a5b437de2a4a72eae4909e79a97e6fd01be75ddbf4417436ee2a69ab20",
+      "matched": true
+    },
+    {
+      "table": "feedbacks",
+      "run1_sha256": "f5b78802c8e062bd87e1416e93df2e68e32874b61413f0373be742fc44cb41e2",
+      "run2_sha256": "f5b78802c8e062bd87e1416e93df2e68e32874b61413f0373be742fc44cb41e2",
+      "matched": true
+    },
+    {
+      "table": "offers",
+      "run1_sha256": "5a3d44dd19546b1489f40edcee8d4f04cebbf998f96b54ce2ab87c88b6a051ce",
+      "run2_sha256": "5a3d44dd19546b1489f40edcee8d4f04cebbf998f96b54ce2ab87c88b6a051ce",
+      "matched": true
+    },
+    {
+      "table": "offer_approvals",
+      "run1_sha256": "27b1c05b5f94d83d00d756ecdb704e948f63221e09cef19f3d5bf5b18e7f4b06",
+      "run2_sha256": "27b1c05b5f94d83d00d756ecdb704e948f63221e09cef19f3d5bf5b18e7f4b06",
+      "matched": true
+    },
+    {
+      "table": "offer_status_history",
+      "run1_sha256": "3e654c2b7a3337f8db9b24c178cb08c15201d8eab3020c3cf48374daeb142f29",
+      "run2_sha256": "3e654c2b7a3337f8db9b24c178cb08c15201d8eab3020c3cf48374daeb142f29",
+      "matched": true
+    },
+    {
+      "table": "audit_events",
+      "run1_sha256": "dbec731766d4e0cf40328b66fbd1e5aaef3c306fc2bd458176847b58c35ffd44",
+      "run2_sha256": "dbec731766d4e0cf40328b66fbd1e5aaef3c306fc2bd458176847b58c35ffd44",
+      "matched": true
+    },
+    {
+      "table": "anomaly_records",
+      "run1_sha256": "4e98accad62f8995378023acc6788594541a28fb02b27eb9a817afd721defe88",
+      "run2_sha256": "4e98accad62f8995378023acc6788594541a28fb02b27eb9a817afd721defe88",
+      "matched": true
+    }
+  ]
+}

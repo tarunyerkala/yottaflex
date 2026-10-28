@@ -1,0 +1,62 @@
+[
+  {
+    "anomaly_id": "ANOM-A-001",
+    "issue_type": "AVAILABILITY_CONFLICT",
+    "entity_type": "Interview",
+    "affected_business_ids": "INT-2026-999001, INT-2026-000001, INTVR-003",
+    "expected_outcome": "Conflict detected during scheduling audit",
+    "actual_observed_condition": "Two active interviews overlap exactly on the same interviewer schedule",
+    "violated_business_rule": "INTERVIEWER_DOUBLE_BOOKED",
+    "expected_detection_result": "DETECTED",
+    "severity": "High",
+    "detection_rationale": "Scheduling an interviewer for concurrent slots violates interview availability constraint."
+  },
+  {
+    "anomaly_id": "ANOM-B-001",
+    "issue_type": "DUPLICATE_APPLICATION",
+    "entity_type": "Application",
+    "affected_business_ids": "APP-REQ-2026-000003-CAND-000005-DUP, CAND-000005, REQ-2026-000003",
+    "expected_outcome": "Duplicate application identified and flagged",
+    "actual_observed_condition": "Candidate submitted second application to the same requisition",
+    "violated_business_rule": "DUPLICATE_APPLICATION_POLICY",
+    "expected_detection_result": "DETECTED",
+    "severity": "Medium",
+    "detection_rationale": "Candidates may not have multiple concurrent applications for the same job requisition."
+  },
+  {
+    "anomaly_id": "ANOM-C-001",
+    "issue_type": "MISSING_FEEDBACK_ADVANCED_STAGE",
+    "entity_type": "Application",
+    "affected_business_ids": "APP-REQ-2026-000016-CAND-000016, INT-2026-999002",
+    "expected_outcome": "Stage progression policy violation detected",
+    "actual_observed_condition": "Application stage advanced to Final Review without completed panel feedback",
+    "violated_business_rule": "STAGE_PROGRESSION_FEEDBACK_GATE",
+    "expected_detection_result": "DETECTED",
+    "severity": "High",
+    "detection_rationale": "Advancing a candidate without required panel feedback violates hiring governance."
+  },
+  {
+    "anomaly_id": "ANOM-D-001",
+    "issue_type": "SALARY_BAND_VIOLATION",
+    "entity_type": "Offer",
+    "affected_business_ids": "OFF-2026-999001, REQ-2026-000009",
+    "expected_outcome": "Compensation band violation flagged",
+    "actual_observed_condition": "Proposed salary $235000.0 exceeds maximum $190000.0",
+    "violated_business_rule": "SALARY_BAND_APPROVAL_LIMIT",
+    "expected_detection_result": "DETECTED",
+    "severity": "Critical",
+    "detection_rationale": "Offers outside the approved requisition band must not be generated without band adjustments."
+  },
+  {
+    "anomaly_id": "ANOM-E-001",
+    "issue_type": "CLOSED_REQUISITION_ACTIVE_APPLICATIONS",
+    "entity_type": "JobRequisition",
+    "affected_business_ids": "REQ-2026-000002",
+    "expected_outcome": "Closed requisition active pipeline violation flagged",
+    "actual_observed_condition": "Requisition marked Closed while applications remain active",
+    "violated_business_rule": "REQUISITION_DISPOSITION_POLICY",
+    "expected_detection_result": "DETECTED",
+    "severity": "High",
+    "detection_rationale": "Closing a requisition without disposing of in-flight applications leaves candidates stranded."
+  }
+]

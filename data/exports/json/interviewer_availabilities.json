@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "availability_id": "AVAIL-1-0",
+    "interviewer_id": 1,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "availability_id": "AVAIL-1-1",
+    "interviewer_id": 1,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 3,
+    "availability_id": "AVAIL-1-2",
+    "interviewer_id": 1,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "availability_id": "AVAIL-1-3",
+    "interviewer_id": 1,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 5,
+    "availability_id": "AVAIL-1-4",
+    "interviewer_id": 1,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 6,
+    "availability_id": "AVAIL-2-0",
+    "interviewer_id": 2,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 7,
+    "availability_id": "AVAIL-2-1",
+    "interviewer_id": 2,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 8,
+    "availability_id": "AVAIL-2-2",
+    "interviewer_id": 2,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 9,
+    "availability_id": "AVAIL-2-3",
+    "interviewer_id": 2,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 10,
+    "availability_id": "AVAIL-2-4",
+    "interviewer_id": 2,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 11,
+    "availability_id": "AVAIL-3-0",
+    "interviewer_id": 3,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 12,
+    "availability_id": "AVAIL-3-1",
+    "interviewer_id": 3,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 13,
+    "availability_id": "AVAIL-3-2",
+    "interviewer_id": 3,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 14,
+    "availability_id": "AVAIL-3-3",
+    "interviewer_id": 3,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 15,
+    "availability_id": "AVAIL-3-4",
+    "interviewer_id": 3,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 16,
+    "availability_id": "AVAIL-4-0",
+    "interviewer_id": 4,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 17,
+    "availability_id": "AVAIL-4-1",
+    "interviewer_id": 4,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 18,
+    "availability_id": "AVAIL-4-2",
+    "interviewer_id": 4,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 19,
+    "availability_id": "AVAIL-4-3",
+    "interviewer_id": 4,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 20,
+    "availability_id": "AVAIL-4-4",
+    "interviewer_id": 4,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 21,
+    "availability_id": "AVAIL-5-0",
+    "interviewer_id": 5,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 22,
+    "availability_id": "AVAIL-5-1",
+    "interviewer_id": 5,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 23,
+    "availability_id": "AVAIL-5-2",
+    "interviewer_id": 5,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 24,
+    "availability_id": "AVAIL-5-3",
+    "interviewer_id": 5,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 25,
+    "availability_id": "AVAIL-5-4",
+    "interviewer_id": 5,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 26,
+    "availability_id": "AVAIL-6-0",
+    "interviewer_id": 6,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 27,
+    "availability_id": "AVAIL-6-1",
+    "interviewer_id": 6,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 28,
+    "availability_id": "AVAIL-6-2",
+    "interviewer_id": 6,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 29,
+    "availability_id": "AVAIL-6-3",
+    "interviewer_id": 6,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 30,
+    "availability_id": "AVAIL-6-4",
+    "interviewer_id": 6,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 31,
+    "availability_id": "AVAIL-7-0",
+    "interviewer_id": 7,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 32,
+    "availability_id": "AVAIL-7-1",
+    "interviewer_id": 7,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 33,
+    "availability_id": "AVAIL-7-2",
+    "interviewer_id": 7,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 34,
+    "availability_id": "AVAIL-7-3",
+    "interviewer_id": 7,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 35,
+    "availability_id": "AVAIL-7-4",
+    "interviewer_id": 7,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 36,
+    "availability_id": "AVAIL-8-0",
+    "interviewer_id": 8,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 37,
+    "availability_id": "AVAIL-8-1",
+    "interviewer_id": 8,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 38,
+    "availability_id": "AVAIL-8-2",
+    "interviewer_id": 8,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 39,
+    "availability_id": "AVAIL-8-3",
+    "interviewer_id": 8,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 40,
+    "availability_id": "AVAIL-8-4",
+    "interviewer_id": 8,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 41,
+    "availability_id": "AVAIL-9-0",
+    "interviewer_id": 9,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 42,
+    "availability_id": "AVAIL-9-1",
+    "interviewer_id": 9,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 43,
+    "availability_id": "AVAIL-9-2",
+    "interviewer_id": 9,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 44,
+    "availability_id": "AVAIL-9-3",
+    "interviewer_id": 9,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 45,
+    "availability_id": "AVAIL-9-4",
+    "interviewer_id": 9,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 46,
+    "availability_id": "AVAIL-10-0",
+    "interviewer_id": 10,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 47,
+    "availability_id": "AVAIL-10-1",
+    "interviewer_id": 10,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 48,
+    "availability_id": "AVAIL-10-2",
+    "interviewer_id": 10,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 49,
+    "availability_id": "AVAIL-10-3",
+    "interviewer_id": 10,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 50,
+    "availability_id": "AVAIL-10-4",
+    "interviewer_id": 10,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 51,
+    "availability_id": "AVAIL-11-0",
+    "interviewer_id": 11,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 52,
+    "availability_id": "AVAIL-11-1",
+    "interviewer_id": 11,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 53,
+    "availability_id": "AVAIL-11-2",
+    "interviewer_id": 11,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 54,
+    "availability_id": "AVAIL-11-3",
+    "interviewer_id": 11,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 55,
+    "availability_id": "AVAIL-11-4",
+    "interviewer_id": 11,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 56,
+    "availability_id": "AVAIL-12-0",
+    "interviewer_id": 12,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 57,
+    "availability_id": "AVAIL-12-1",
+    "interviewer_id": 12,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 58,
+    "availability_id": "AVAIL-12-2",
+    "interviewer_id": 12,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 59,
+    "availability_id": "AVAIL-12-3",
+    "interviewer_id": 12,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 60,
+    "availability_id": "AVAIL-12-4",
+    "interviewer_id": 12,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 61,
+    "availability_id": "AVAIL-13-0",
+    "interviewer_id": 13,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 62,
+    "availability_id": "AVAIL-13-1",
+    "interviewer_id": 13,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 63,
+    "availability_id": "AVAIL-13-2",
+    "interviewer_id": 13,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 64,
+    "availability_id": "AVAIL-13-3",
+    "interviewer_id": 13,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 65,
+    "availability_id": "AVAIL-13-4",
+    "interviewer_id": 13,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 66,
+    "availability_id": "AVAIL-14-0",
+    "interviewer_id": 14,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 67,
+    "availability_id": "AVAIL-14-1",
+    "interviewer_id": 14,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 68,
+    "availability_id": "AVAIL-14-2",
+    "interviewer_id": 14,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 69,
+    "availability_id": "AVAIL-14-3",
+    "interviewer_id": 14,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 70,
+    "availability_id": "AVAIL-14-4",
+    "interviewer_id": 14,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 71,
+    "availability_id": "AVAIL-15-0",
+    "interviewer_id": 15,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 72,
+    "availability_id": "AVAIL-15-1",
+    "interviewer_id": 15,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 73,
+    "availability_id": "AVAIL-15-2",
+    "interviewer_id": 15,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 74,
+    "availability_id": "AVAIL-15-3",
+    "interviewer_id": 15,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 75,
+    "availability_id": "AVAIL-15-4",
+    "interviewer_id": 15,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 76,
+    "availability_id": "AVAIL-16-0",
+    "interviewer_id": 16,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 77,
+    "availability_id": "AVAIL-16-1",
+    "interviewer_id": 16,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 78,
+    "availability_id": "AVAIL-16-2",
+    "interviewer_id": 16,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 79,
+    "availability_id": "AVAIL-16-3",
+    "interviewer_id": 16,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 80,
+    "availability_id": "AVAIL-16-4",
+    "interviewer_id": 16,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 81,
+    "availability_id": "AVAIL-17-0",
+    "interviewer_id": 17,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 82,
+    "availability_id": "AVAIL-17-1",
+    "interviewer_id": 17,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 83,
+    "availability_id": "AVAIL-17-2",
+    "interviewer_id": 17,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 84,
+    "availability_id": "AVAIL-17-3",
+    "interviewer_id": 17,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 85,
+    "availability_id": "AVAIL-17-4",
+    "interviewer_id": 17,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 86,
+    "availability_id": "AVAIL-18-0",
+    "interviewer_id": 18,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 87,
+    "availability_id": "AVAIL-18-1",
+    "interviewer_id": 18,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 88,
+    "availability_id": "AVAIL-18-2",
+    "interviewer_id": 18,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 89,
+    "availability_id": "AVAIL-18-3",
+    "interviewer_id": 18,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 90,
+    "availability_id": "AVAIL-18-4",
+    "interviewer_id": 18,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 91,
+    "availability_id": "AVAIL-19-0",
+    "interviewer_id": 19,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 92,
+    "availability_id": "AVAIL-19-1",
+    "interviewer_id": 19,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 93,
+    "availability_id": "AVAIL-19-2",
+    "interviewer_id": 19,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 94,
+    "availability_id": "AVAIL-19-3",
+    "interviewer_id": 19,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 95,
+    "availability_id": "AVAIL-19-4",
+    "interviewer_id": 19,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 96,
+    "availability_id": "AVAIL-20-0",
+    "interviewer_id": 20,
+    "day_of_week": 0,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 97,
+    "availability_id": "AVAIL-20-1",
+    "interviewer_id": 20,
+    "day_of_week": 1,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 98,
+    "availability_id": "AVAIL-20-2",
+    "interviewer_id": 20,
+    "day_of_week": 2,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 99,
+    "availability_id": "AVAIL-20-3",
+    "interviewer_id": 20,
+    "day_of_week": 3,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  },
+  {
+    "id": 100,
+    "availability_id": "AVAIL-20-4",
+    "interviewer_id": 20,
+    "day_of_week": 4,
+    "start_time": "09:00",
+    "end_time": "18:00",
+    "specific_date": null,
+    "is_available": true
+  }
+]

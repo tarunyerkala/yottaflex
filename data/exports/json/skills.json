@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "skill_id": "SKILL-001",
+    "name": "Python",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 2,
+    "skill_id": "SKILL-002",
+    "name": "JavaScript",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 3,
+    "skill_id": "SKILL-003",
+    "name": "TypeScript",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 4,
+    "skill_id": "SKILL-004",
+    "name": "React",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 5,
+    "skill_id": "SKILL-005",
+    "name": "FastAPI",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 6,
+    "skill_id": "SKILL-006",
+    "name": "SQL",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 7,
+    "skill_id": "SKILL-007",
+    "name": "PostgreSQL",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 8,
+    "skill_id": "SKILL-008",
+    "name": "Docker",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 9,
+    "skill_id": "SKILL-009",
+    "name": "Kubernetes",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 10,
+    "skill_id": "SKILL-010",
+    "name": "AWS",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 11,
+    "skill_id": "SKILL-011",
+    "name": "System Design",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 12,
+    "skill_id": "SKILL-012",
+    "name": "Data Analysis",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 13,
+    "skill_id": "SKILL-013",
+    "name": "Machine Learning",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 14,
+    "skill_id": "SKILL-014",
+    "name": "GraphQL",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 15,
+    "skill_id": "SKILL-015",
+    "name": "Automated Testing",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 16,
+    "skill_id": "SKILL-016",
+    "name": "CI/CD Pipelines",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 17,
+    "skill_id": "SKILL-017",
+    "name": "Agile Methodology",
+    "category": "Professional",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 18,
+    "skill_id": "SKILL-018",
+    "name": "Technical Communication",
+    "category": "Professional",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 19,
+    "skill_id": "SKILL-019",
+    "name": "Problem Solving",
+    "category": "Professional",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 20,
+    "skill_id": "SKILL-020",
+    "name": "Stakeholder Management",
+    "category": "Professional",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 21,
+    "skill_id": "SKILL-021",
+    "name": "Product Strategy",
+    "category": "Domain",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 22,
+    "skill_id": "SKILL-022",
+    "name": "UI/UX Design",
+    "category": "Domain",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 23,
+    "skill_id": "SKILL-023",
+    "name": "User Research",
+    "category": "Domain",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 24,
+    "skill_id": "SKILL-024",
+    "name": "Data Modeling",
+    "category": "Domain",
+    "created_at": "2026-01-01T08:00:00"
+  },
+  {
+    "id": 25,
+    "skill_id": "SKILL-025",
+    "name": "Distributed Systems",
+    "category": "Technical",
+    "created_at": "2026-01-01T08:00:00"
+  }
+]

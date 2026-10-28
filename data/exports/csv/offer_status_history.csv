@@ -1,0 +1,286 @@
+id,offer_id,from_status,to_status,actor,reason,changed_at
+1,1,None,Approved,VP_DES,Executive approval granted,2026-02-21T10:00:00
+2,1,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+3,2,None,Approved,VP_MKTG,Executive approval granted,2026-02-22T10:00:00
+4,2,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+5,3,None,Approved,VP_PROD,Executive approval granted,2026-02-23T10:00:00
+6,3,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+7,4,None,Approved,VP_PROD,Executive approval granted,2026-02-24T10:00:00
+8,4,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+9,5,None,Approved,VP_DES,Executive approval granted,2026-02-25T10:00:00
+10,5,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+11,6,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+12,6,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+13,7,None,Approved,VP_DATA,Executive approval granted,2026-02-27T10:00:00
+14,7,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+15,8,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+16,8,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+17,9,None,Approved,VP_QA,Executive approval granted,2026-03-01T10:00:00
+18,10,None,Approved,VP_QA,Executive approval granted,2026-02-20T10:00:00
+19,10,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+20,11,None,Approved,VP_QA,Executive approval granted,2026-02-21T10:00:00
+21,11,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+22,12,None,Approved,VP_MKTG,Executive approval granted,2026-02-22T10:00:00
+23,12,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+24,13,None,Approved,VP_QA,Executive approval granted,2026-02-23T10:00:00
+25,13,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+26,14,None,Approved,VP_DES,Executive approval granted,2026-02-24T10:00:00
+27,14,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+28,15,None,Approved,VP_SEC,Executive approval granted,2026-02-25T10:00:00
+29,15,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+30,16,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+31,16,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+32,17,None,Approved,VP_QA,Executive approval granted,2026-02-27T10:00:00
+33,17,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+34,18,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+35,18,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+36,19,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+37,20,None,Approved,VP_DES,Executive approval granted,2026-02-20T10:00:00
+38,20,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+39,21,None,Approved,VP_QA,Executive approval granted,2026-02-21T10:00:00
+40,21,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+41,22,None,Approved,VP_DATA,Executive approval granted,2026-02-22T10:00:00
+42,22,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+43,23,None,Approved,VP_DES,Executive approval granted,2026-02-23T10:00:00
+44,23,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+45,24,None,Approved,VP_SEC,Executive approval granted,2026-02-24T10:00:00
+46,24,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+47,25,None,Approved,VP_PROD,Executive approval granted,2026-02-25T10:00:00
+48,25,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+49,26,None,Approved,VP_QA,Executive approval granted,2026-02-26T10:00:00
+50,26,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+51,27,None,Approved,VP_OPS,Executive approval granted,2026-02-27T10:00:00
+52,27,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+53,28,None,Approved,VP_OPS,Executive approval granted,2026-02-28T10:00:00
+54,28,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+55,29,None,Approved,VP_QA,Executive approval granted,2026-03-01T10:00:00
+56,30,None,Approved,VP_PROD,Executive approval granted,2026-02-20T10:00:00
+57,30,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+58,31,None,Approved,VP_PROD,Executive approval granted,2026-02-21T10:00:00
+59,31,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+60,32,None,Approved,VP_PROD,Executive approval granted,2026-02-22T10:00:00
+61,32,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+62,33,None,Approved,VP_PROD,Executive approval granted,2026-02-23T10:00:00
+63,33,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+64,34,None,Approved,VP_OPS,Executive approval granted,2026-02-24T10:00:00
+65,34,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+66,35,None,Approved,VP_DATA,Executive approval granted,2026-02-25T10:00:00
+67,35,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+68,36,None,Approved,VP_OPS,Executive approval granted,2026-02-26T10:00:00
+69,36,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+70,37,None,Approved,VP_PROD,Executive approval granted,2026-02-27T10:00:00
+71,37,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+72,38,None,Approved,VP_OPS,Executive approval granted,2026-02-28T10:00:00
+73,38,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+74,39,None,Approved,VP_QA,Executive approval granted,2026-03-01T10:00:00
+75,40,None,Approved,VP_OPS,Executive approval granted,2026-02-20T10:00:00
+76,40,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+77,41,None,Approved,VP_SEC,Executive approval granted,2026-02-21T10:00:00
+78,41,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+79,42,None,Approved,VP_QA,Executive approval granted,2026-02-22T10:00:00
+80,42,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+81,43,None,Approved,VP_PROD,Executive approval granted,2026-02-23T10:00:00
+82,43,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+83,44,None,Approved,VP_MKTG,Executive approval granted,2026-02-24T10:00:00
+84,44,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+85,45,None,Approved,VP_PROD,Executive approval granted,2026-02-25T10:00:00
+86,45,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+87,46,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+88,46,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+89,47,None,Approved,VP_OPS,Executive approval granted,2026-02-27T10:00:00
+90,47,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+91,48,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+92,48,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+93,49,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+94,50,None,Approved,VP_SEC,Executive approval granted,2026-02-20T10:00:00
+95,50,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+96,51,None,Approved,VP_DES,Executive approval granted,2026-02-21T10:00:00
+97,51,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+98,52,None,Approved,VP_DES,Executive approval granted,2026-02-22T10:00:00
+99,52,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+100,53,None,Approved,VP_PROD,Executive approval granted,2026-02-23T10:00:00
+101,53,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+102,54,None,Approved,VP_DES,Executive approval granted,2026-02-24T10:00:00
+103,54,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+104,55,None,Approved,VP_SEC,Executive approval granted,2026-02-25T10:00:00
+105,55,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+106,56,None,Approved,VP_SEC,Executive approval granted,2026-02-26T10:00:00
+107,56,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+108,57,None,Approved,VP_MKTG,Executive approval granted,2026-02-27T10:00:00
+109,57,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+110,58,None,Approved,VP_SEC,Executive approval granted,2026-02-28T10:00:00
+111,58,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+112,59,None,Approved,VP_SEC,Executive approval granted,2026-03-01T10:00:00
+113,60,None,Approved,VP_OPS,Executive approval granted,2026-02-20T10:00:00
+114,60,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+115,61,None,Approved,VP_PROD,Executive approval granted,2026-02-21T10:00:00
+116,61,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+117,62,None,Approved,VP_QA,Executive approval granted,2026-02-22T10:00:00
+118,62,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+119,63,None,Approved,VP_MKTG,Executive approval granted,2026-02-23T10:00:00
+120,63,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+121,64,None,Approved,VP_DES,Executive approval granted,2026-02-24T10:00:00
+122,64,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+123,65,None,Approved,VP_MKTG,Executive approval granted,2026-02-25T10:00:00
+124,65,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+125,66,None,Approved,VP_SEC,Executive approval granted,2026-02-26T10:00:00
+126,66,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+127,67,None,Approved,VP_PROD,Executive approval granted,2026-02-27T10:00:00
+128,67,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+129,68,None,Approved,VP_SEC,Executive approval granted,2026-02-28T10:00:00
+130,68,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+131,69,None,Approved,VP_DATA,Executive approval granted,2026-03-01T10:00:00
+132,70,None,Approved,VP_PROD,Executive approval granted,2026-02-20T10:00:00
+133,70,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+134,71,None,Approved,VP_QA,Executive approval granted,2026-02-21T10:00:00
+135,71,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+136,72,None,Approved,VP_PROD,Executive approval granted,2026-02-22T10:00:00
+137,72,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+138,73,None,Approved,VP_OPS,Executive approval granted,2026-02-23T10:00:00
+139,73,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+140,74,None,Approved,VP_SEC,Executive approval granted,2026-02-24T10:00:00
+141,74,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+142,75,None,Approved,VP_OPS,Executive approval granted,2026-02-25T10:00:00
+143,75,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+144,76,None,Approved,VP_QA,Executive approval granted,2026-02-26T10:00:00
+145,76,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+146,77,None,Approved,VP_SEC,Executive approval granted,2026-02-27T10:00:00
+147,77,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+148,78,None,Approved,VP_MKTG,Executive approval granted,2026-02-28T10:00:00
+149,78,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+150,79,None,Approved,VP_DES,Executive approval granted,2026-03-01T10:00:00
+151,80,None,Approved,VP_DATA,Executive approval granted,2026-02-20T10:00:00
+152,80,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+153,81,None,Approved,VP_OPS,Executive approval granted,2026-02-21T10:00:00
+154,81,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+155,82,None,Approved,VP_OPS,Executive approval granted,2026-02-22T10:00:00
+156,82,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+157,83,None,Approved,VP_DES,Executive approval granted,2026-02-23T10:00:00
+158,83,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+159,84,None,Approved,VP_DATA,Executive approval granted,2026-02-24T10:00:00
+160,84,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+161,85,None,Approved,VP_SEC,Executive approval granted,2026-02-25T10:00:00
+162,85,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+163,86,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+164,86,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+165,87,None,Approved,VP_SEC,Executive approval granted,2026-02-27T10:00:00
+166,87,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+167,88,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+168,88,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+169,89,None,Approved,VP_DATA,Executive approval granted,2026-03-01T10:00:00
+170,90,None,Approved,VP_PROD,Executive approval granted,2026-02-20T10:00:00
+171,90,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+172,91,None,Approved,VP_DATA,Executive approval granted,2026-02-21T10:00:00
+173,91,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+174,92,None,Approved,VP_PROD,Executive approval granted,2026-02-22T10:00:00
+175,92,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+176,93,None,Approved,VP_OPS,Executive approval granted,2026-02-23T10:00:00
+177,93,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+178,94,None,Approved,VP_DATA,Executive approval granted,2026-02-24T10:00:00
+179,94,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+180,95,None,Approved,VP_PROD,Executive approval granted,2026-02-25T10:00:00
+181,95,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+182,96,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+183,96,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+184,97,None,Approved,VP_SEC,Executive approval granted,2026-02-27T10:00:00
+185,97,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+186,98,None,Approved,VP_DES,Executive approval granted,2026-02-28T10:00:00
+187,98,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+188,99,None,Approved,VP_QA,Executive approval granted,2026-03-01T10:00:00
+189,100,None,Approved,VP_OPS,Executive approval granted,2026-02-20T10:00:00
+190,100,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+191,101,None,Approved,VP_SEC,Executive approval granted,2026-02-21T10:00:00
+192,101,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+193,102,None,Approved,VP_MKTG,Executive approval granted,2026-02-22T10:00:00
+194,102,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+195,103,None,Approved,VP_DES,Executive approval granted,2026-02-23T10:00:00
+196,103,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+197,104,None,Approved,VP_MKTG,Executive approval granted,2026-02-24T10:00:00
+198,104,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+199,105,None,Approved,VP_OPS,Executive approval granted,2026-02-25T10:00:00
+200,105,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+201,106,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+202,106,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+203,107,None,Approved,VP_MKTG,Executive approval granted,2026-02-27T10:00:00
+204,107,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+205,108,None,Approved,VP_QA,Executive approval granted,2026-02-28T10:00:00
+206,108,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+207,109,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+208,110,None,Approved,VP_DATA,Executive approval granted,2026-02-20T10:00:00
+209,110,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+210,111,None,Approved,VP_MKTG,Executive approval granted,2026-02-21T10:00:00
+211,111,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+212,112,None,Approved,VP_DES,Executive approval granted,2026-02-22T10:00:00
+213,112,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+214,113,None,Approved,VP_QA,Executive approval granted,2026-02-23T10:00:00
+215,113,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+216,114,None,Approved,VP_QA,Executive approval granted,2026-02-24T10:00:00
+217,114,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+218,115,None,Approved,VP_OPS,Executive approval granted,2026-02-25T10:00:00
+219,115,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+220,116,None,Approved,VP_PROD,Executive approval granted,2026-02-26T10:00:00
+221,116,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+222,117,None,Approved,VP_SEC,Executive approval granted,2026-02-27T10:00:00
+223,117,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+224,118,None,Approved,VP_MKTG,Executive approval granted,2026-02-28T10:00:00
+225,118,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+226,119,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+227,120,None,Approved,VP_QA,Executive approval granted,2026-02-20T10:00:00
+228,120,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+229,121,None,Approved,VP_PROD,Executive approval granted,2026-02-21T10:00:00
+230,121,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+231,122,None,Approved,VP_QA,Executive approval granted,2026-02-22T10:00:00
+232,122,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+233,123,None,Approved,VP_QA,Executive approval granted,2026-02-23T10:00:00
+234,123,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+235,124,None,Approved,VP_DES,Executive approval granted,2026-02-24T10:00:00
+236,124,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+237,125,None,Approved,VP_DES,Executive approval granted,2026-02-25T10:00:00
+238,125,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+239,126,None,Approved,VP_OPS,Executive approval granted,2026-02-26T10:00:00
+240,126,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+241,127,None,Approved,VP_PROD,Executive approval granted,2026-02-27T10:00:00
+242,127,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+243,128,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+244,128,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+245,129,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+246,130,None,Approved,VP_DES,Executive approval granted,2026-02-20T10:00:00
+247,130,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+248,131,None,Approved,VP_OPS,Executive approval granted,2026-02-21T10:00:00
+249,131,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+250,132,None,Approved,VP_QA,Executive approval granted,2026-02-22T10:00:00
+251,132,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+252,133,None,Approved,VP_OPS,Executive approval granted,2026-02-23T10:00:00
+253,133,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+254,134,None,Approved,VP_PROD,Executive approval granted,2026-02-24T10:00:00
+255,134,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+256,135,None,Approved,VP_OPS,Executive approval granted,2026-02-25T10:00:00
+257,135,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+258,136,None,Approved,VP_SEC,Executive approval granted,2026-02-26T10:00:00
+259,136,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+260,137,None,Approved,VP_PROD,Executive approval granted,2026-02-27T10:00:00
+261,137,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+262,138,None,Approved,VP_PROD,Executive approval granted,2026-02-28T10:00:00
+263,138,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+264,139,None,Approved,VP_PROD,Executive approval granted,2026-03-01T10:00:00
+265,140,None,Approved,VP_PROD,Executive approval granted,2026-02-20T10:00:00
+266,140,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00
+267,141,None,Approved,VP_QA,Executive approval granted,2026-02-21T10:00:00
+268,141,Approved,Accepted,Candidate,Offer accepted,2026-02-23T10:00:00
+269,142,None,Approved,VP_OPS,Executive approval granted,2026-02-22T10:00:00
+270,142,Approved,Accepted,Candidate,Offer accepted,2026-02-24T10:00:00
+271,143,None,Approved,VP_QA,Executive approval granted,2026-02-23T10:00:00
+272,143,Approved,Accepted,Candidate,Offer accepted,2026-02-25T10:00:00
+273,144,None,Approved,VP_PROD,Executive approval granted,2026-02-24T10:00:00
+274,144,Approved,Accepted,Candidate,Offer accepted,2026-02-26T10:00:00
+275,145,None,Approved,VP_PROD,Executive approval granted,2026-02-25T10:00:00
+276,145,Approved,Accepted,Candidate,Offer accepted,2026-02-27T10:00:00
+277,146,None,Approved,VP_QA,Executive approval granted,2026-02-26T10:00:00
+278,146,Approved,Extended,Recruiter,Offer extended,2026-02-28T10:00:00
+279,147,None,Approved,VP_QA,Executive approval granted,2026-02-27T10:00:00
+280,147,Approved,Extended,Recruiter,Offer extended,2026-03-01T10:00:00
+281,148,None,Approved,VP_SEC,Executive approval granted,2026-02-28T10:00:00
+282,148,Approved,Declined,Candidate,Offer declined,2026-03-02T10:00:00
+283,149,None,Approved,VP_OPS,Executive approval granted,2026-03-01T10:00:00
+284,150,None,Approved,VP_QA,Executive approval granted,2026-02-20T10:00:00
+285,150,Approved,Accepted,Candidate,Offer accepted,2026-02-22T10:00:00

@@ -1,0 +1,2567 @@
+[
+  {
+    "id": 1,
+    "offer_id": 1,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 2,
+    "offer_id": 1,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 3,
+    "offer_id": 2,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 4,
+    "offer_id": 2,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 5,
+    "offer_id": 3,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 6,
+    "offer_id": 3,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 7,
+    "offer_id": 4,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 8,
+    "offer_id": 4,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 9,
+    "offer_id": 5,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 10,
+    "offer_id": 5,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 11,
+    "offer_id": 6,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 12,
+    "offer_id": 6,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 13,
+    "offer_id": 7,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 14,
+    "offer_id": 7,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 15,
+    "offer_id": 8,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 16,
+    "offer_id": 8,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 17,
+    "offer_id": 9,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 18,
+    "offer_id": 10,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 19,
+    "offer_id": 10,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 20,
+    "offer_id": 11,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 21,
+    "offer_id": 11,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 22,
+    "offer_id": 12,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 23,
+    "offer_id": 12,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 24,
+    "offer_id": 13,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 25,
+    "offer_id": 13,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 26,
+    "offer_id": 14,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 27,
+    "offer_id": 14,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 28,
+    "offer_id": 15,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 29,
+    "offer_id": 15,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 30,
+    "offer_id": 16,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 31,
+    "offer_id": 16,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 32,
+    "offer_id": 17,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 33,
+    "offer_id": 17,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 34,
+    "offer_id": 18,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 35,
+    "offer_id": 18,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 36,
+    "offer_id": 19,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 37,
+    "offer_id": 20,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 38,
+    "offer_id": 20,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 39,
+    "offer_id": 21,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 40,
+    "offer_id": 21,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 41,
+    "offer_id": 22,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 42,
+    "offer_id": 22,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 43,
+    "offer_id": 23,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 44,
+    "offer_id": 23,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 45,
+    "offer_id": 24,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 46,
+    "offer_id": 24,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 47,
+    "offer_id": 25,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 48,
+    "offer_id": 25,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 49,
+    "offer_id": 26,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 50,
+    "offer_id": 26,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 51,
+    "offer_id": 27,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 52,
+    "offer_id": 27,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 53,
+    "offer_id": 28,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 54,
+    "offer_id": 28,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 55,
+    "offer_id": 29,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 56,
+    "offer_id": 30,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 57,
+    "offer_id": 30,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 58,
+    "offer_id": 31,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 59,
+    "offer_id": 31,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 60,
+    "offer_id": 32,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 61,
+    "offer_id": 32,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 62,
+    "offer_id": 33,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 63,
+    "offer_id": 33,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 64,
+    "offer_id": 34,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 65,
+    "offer_id": 34,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 66,
+    "offer_id": 35,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 67,
+    "offer_id": 35,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 68,
+    "offer_id": 36,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 69,
+    "offer_id": 36,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 70,
+    "offer_id": 37,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 71,
+    "offer_id": 37,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 72,
+    "offer_id": 38,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 73,
+    "offer_id": 38,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 74,
+    "offer_id": 39,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 75,
+    "offer_id": 40,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 76,
+    "offer_id": 40,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 77,
+    "offer_id": 41,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 78,
+    "offer_id": 41,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 79,
+    "offer_id": 42,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 80,
+    "offer_id": 42,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 81,
+    "offer_id": 43,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 82,
+    "offer_id": 43,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 83,
+    "offer_id": 44,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 84,
+    "offer_id": 44,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 85,
+    "offer_id": 45,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 86,
+    "offer_id": 45,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 87,
+    "offer_id": 46,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 88,
+    "offer_id": 46,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 89,
+    "offer_id": 47,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 90,
+    "offer_id": 47,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 91,
+    "offer_id": 48,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 92,
+    "offer_id": 48,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 93,
+    "offer_id": 49,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 94,
+    "offer_id": 50,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 95,
+    "offer_id": 50,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 96,
+    "offer_id": 51,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 97,
+    "offer_id": 51,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 98,
+    "offer_id": 52,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 99,
+    "offer_id": 52,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 100,
+    "offer_id": 53,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 101,
+    "offer_id": 53,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 102,
+    "offer_id": 54,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 103,
+    "offer_id": 54,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 104,
+    "offer_id": 55,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 105,
+    "offer_id": 55,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 106,
+    "offer_id": 56,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 107,
+    "offer_id": 56,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 108,
+    "offer_id": 57,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 109,
+    "offer_id": 57,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 110,
+    "offer_id": 58,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 111,
+    "offer_id": 58,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 112,
+    "offer_id": 59,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 113,
+    "offer_id": 60,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 114,
+    "offer_id": 60,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 115,
+    "offer_id": 61,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 116,
+    "offer_id": 61,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 117,
+    "offer_id": 62,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 118,
+    "offer_id": 62,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 119,
+    "offer_id": 63,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 120,
+    "offer_id": 63,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 121,
+    "offer_id": 64,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 122,
+    "offer_id": 64,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 123,
+    "offer_id": 65,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 124,
+    "offer_id": 65,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 125,
+    "offer_id": 66,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 126,
+    "offer_id": 66,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 127,
+    "offer_id": 67,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 128,
+    "offer_id": 67,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 129,
+    "offer_id": 68,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 130,
+    "offer_id": 68,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 131,
+    "offer_id": 69,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 132,
+    "offer_id": 70,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 133,
+    "offer_id": 70,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 134,
+    "offer_id": 71,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 135,
+    "offer_id": 71,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 136,
+    "offer_id": 72,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 137,
+    "offer_id": 72,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 138,
+    "offer_id": 73,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 139,
+    "offer_id": 73,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 140,
+    "offer_id": 74,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 141,
+    "offer_id": 74,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 142,
+    "offer_id": 75,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 143,
+    "offer_id": 75,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 144,
+    "offer_id": 76,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 145,
+    "offer_id": 76,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 146,
+    "offer_id": 77,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 147,
+    "offer_id": 77,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 148,
+    "offer_id": 78,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 149,
+    "offer_id": 78,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 150,
+    "offer_id": 79,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 151,
+    "offer_id": 80,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 152,
+    "offer_id": 80,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 153,
+    "offer_id": 81,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 154,
+    "offer_id": 81,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 155,
+    "offer_id": 82,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 156,
+    "offer_id": 82,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 157,
+    "offer_id": 83,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 158,
+    "offer_id": 83,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 159,
+    "offer_id": 84,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 160,
+    "offer_id": 84,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 161,
+    "offer_id": 85,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 162,
+    "offer_id": 85,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 163,
+    "offer_id": 86,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 164,
+    "offer_id": 86,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 165,
+    "offer_id": 87,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 166,
+    "offer_id": 87,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 167,
+    "offer_id": 88,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 168,
+    "offer_id": 88,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 169,
+    "offer_id": 89,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 170,
+    "offer_id": 90,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 171,
+    "offer_id": 90,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 172,
+    "offer_id": 91,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 173,
+    "offer_id": 91,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 174,
+    "offer_id": 92,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 175,
+    "offer_id": 92,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 176,
+    "offer_id": 93,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 177,
+    "offer_id": 93,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 178,
+    "offer_id": 94,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 179,
+    "offer_id": 94,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 180,
+    "offer_id": 95,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 181,
+    "offer_id": 95,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 182,
+    "offer_id": 96,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 183,
+    "offer_id": 96,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 184,
+    "offer_id": 97,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 185,
+    "offer_id": 97,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 186,
+    "offer_id": 98,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 187,
+    "offer_id": 98,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 188,
+    "offer_id": 99,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 189,
+    "offer_id": 100,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 190,
+    "offer_id": 100,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 191,
+    "offer_id": 101,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 192,
+    "offer_id": 101,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 193,
+    "offer_id": 102,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 194,
+    "offer_id": 102,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 195,
+    "offer_id": 103,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 196,
+    "offer_id": 103,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 197,
+    "offer_id": 104,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 198,
+    "offer_id": 104,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 199,
+    "offer_id": 105,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 200,
+    "offer_id": 105,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 201,
+    "offer_id": 106,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 202,
+    "offer_id": 106,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 203,
+    "offer_id": 107,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 204,
+    "offer_id": 107,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 205,
+    "offer_id": 108,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 206,
+    "offer_id": 108,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 207,
+    "offer_id": 109,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 208,
+    "offer_id": 110,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DATA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 209,
+    "offer_id": 110,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 210,
+    "offer_id": 111,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 211,
+    "offer_id": 111,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 212,
+    "offer_id": 112,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 213,
+    "offer_id": 112,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 214,
+    "offer_id": 113,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 215,
+    "offer_id": 113,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 216,
+    "offer_id": 114,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 217,
+    "offer_id": 114,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 218,
+    "offer_id": 115,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 219,
+    "offer_id": 115,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 220,
+    "offer_id": 116,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 221,
+    "offer_id": 116,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 222,
+    "offer_id": 117,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 223,
+    "offer_id": 117,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 224,
+    "offer_id": 118,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_MKTG",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 225,
+    "offer_id": 118,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 226,
+    "offer_id": 119,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 227,
+    "offer_id": 120,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 228,
+    "offer_id": 120,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 229,
+    "offer_id": 121,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 230,
+    "offer_id": 121,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 231,
+    "offer_id": 122,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 232,
+    "offer_id": 122,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 233,
+    "offer_id": 123,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 234,
+    "offer_id": 123,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 235,
+    "offer_id": 124,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 236,
+    "offer_id": 124,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 237,
+    "offer_id": 125,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 238,
+    "offer_id": 125,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 239,
+    "offer_id": 126,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 240,
+    "offer_id": 126,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 241,
+    "offer_id": 127,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 242,
+    "offer_id": 127,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 243,
+    "offer_id": 128,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 244,
+    "offer_id": 128,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 245,
+    "offer_id": 129,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 246,
+    "offer_id": 130,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_DES",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 247,
+    "offer_id": 130,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 248,
+    "offer_id": 131,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 249,
+    "offer_id": 131,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 250,
+    "offer_id": 132,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 251,
+    "offer_id": 132,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 252,
+    "offer_id": 133,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 253,
+    "offer_id": 133,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 254,
+    "offer_id": 134,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 255,
+    "offer_id": 134,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 256,
+    "offer_id": 135,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 257,
+    "offer_id": 135,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 258,
+    "offer_id": 136,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 259,
+    "offer_id": 136,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 260,
+    "offer_id": 137,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 261,
+    "offer_id": 137,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 262,
+    "offer_id": 138,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 263,
+    "offer_id": 138,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 264,
+    "offer_id": 139,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 265,
+    "offer_id": 140,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 266,
+    "offer_id": 140,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 267,
+    "offer_id": 141,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-21T10:00:00"
+  },
+  {
+    "id": 268,
+    "offer_id": 141,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 269,
+    "offer_id": 142,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-22T10:00:00"
+  },
+  {
+    "id": 270,
+    "offer_id": 142,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 271,
+    "offer_id": 143,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-23T10:00:00"
+  },
+  {
+    "id": 272,
+    "offer_id": 143,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 273,
+    "offer_id": 144,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-24T10:00:00"
+  },
+  {
+    "id": 274,
+    "offer_id": 144,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 275,
+    "offer_id": 145,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_PROD",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-25T10:00:00"
+  },
+  {
+    "id": 276,
+    "offer_id": 145,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 277,
+    "offer_id": 146,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-26T10:00:00"
+  },
+  {
+    "id": 278,
+    "offer_id": 146,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 279,
+    "offer_id": 147,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-27T10:00:00"
+  },
+  {
+    "id": 280,
+    "offer_id": 147,
+    "from_status": "Approved",
+    "to_status": "Extended",
+    "actor": "Recruiter",
+    "reason": "Offer extended",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 281,
+    "offer_id": 148,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_SEC",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-28T10:00:00"
+  },
+  {
+    "id": 282,
+    "offer_id": 148,
+    "from_status": "Approved",
+    "to_status": "Declined",
+    "actor": "Candidate",
+    "reason": "Offer declined",
+    "changed_at": "2026-03-02T10:00:00"
+  },
+  {
+    "id": 283,
+    "offer_id": 149,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_OPS",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-03-01T10:00:00"
+  },
+  {
+    "id": 284,
+    "offer_id": 150,
+    "from_status": "None",
+    "to_status": "Approved",
+    "actor": "VP_QA",
+    "reason": "Executive approval granted",
+    "changed_at": "2026-02-20T10:00:00"
+  },
+  {
+    "id": 285,
+    "offer_id": 150,
+    "from_status": "Approved",
+    "to_status": "Accepted",
+    "actor": "Candidate",
+    "reason": "Offer accepted",
+    "changed_at": "2026-02-22T10:00:00"
+  }
+]

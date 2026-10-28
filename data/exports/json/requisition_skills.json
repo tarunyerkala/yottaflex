@@ -1,0 +1,3226 @@
+[
+  {
+    "id": 1,
+    "requisition_id": 1,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 2,
+    "requisition_id": 1,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 3,
+    "requisition_id": 1,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 4,
+    "requisition_id": 1,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 5,
+    "requisition_id": 1,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 6,
+    "requisition_id": 2,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 7,
+    "requisition_id": 2,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 8,
+    "requisition_id": 2,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 9,
+    "requisition_id": 3,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 10,
+    "requisition_id": 3,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 11,
+    "requisition_id": 3,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 12,
+    "requisition_id": 3,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 13,
+    "requisition_id": 3,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 14,
+    "requisition_id": 4,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 15,
+    "requisition_id": 4,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 16,
+    "requisition_id": 4,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 17,
+    "requisition_id": 5,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 18,
+    "requisition_id": 5,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 19,
+    "requisition_id": 5,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 20,
+    "requisition_id": 5,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 21,
+    "requisition_id": 6,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 22,
+    "requisition_id": 6,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 23,
+    "requisition_id": 6,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 24,
+    "requisition_id": 7,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 25,
+    "requisition_id": 7,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 26,
+    "requisition_id": 7,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 27,
+    "requisition_id": 7,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 28,
+    "requisition_id": 7,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 29,
+    "requisition_id": 8,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 30,
+    "requisition_id": 8,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 31,
+    "requisition_id": 8,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 32,
+    "requisition_id": 8,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 33,
+    "requisition_id": 9,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 34,
+    "requisition_id": 9,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 35,
+    "requisition_id": 9,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 36,
+    "requisition_id": 10,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 37,
+    "requisition_id": 10,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 38,
+    "requisition_id": 10,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 39,
+    "requisition_id": 10,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 40,
+    "requisition_id": 10,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 41,
+    "requisition_id": 11,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 42,
+    "requisition_id": 11,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 43,
+    "requisition_id": 11,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 44,
+    "requisition_id": 11,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 45,
+    "requisition_id": 12,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 46,
+    "requisition_id": 12,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 47,
+    "requisition_id": 12,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 48,
+    "requisition_id": 12,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 49,
+    "requisition_id": 12,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 50,
+    "requisition_id": 13,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 51,
+    "requisition_id": 13,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 52,
+    "requisition_id": 13,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 53,
+    "requisition_id": 14,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 54,
+    "requisition_id": 14,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 55,
+    "requisition_id": 14,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 56,
+    "requisition_id": 15,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 57,
+    "requisition_id": 15,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 58,
+    "requisition_id": 15,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 59,
+    "requisition_id": 15,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 60,
+    "requisition_id": 16,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 61,
+    "requisition_id": 16,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 62,
+    "requisition_id": 16,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 63,
+    "requisition_id": 16,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 64,
+    "requisition_id": 17,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 65,
+    "requisition_id": 17,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 66,
+    "requisition_id": 17,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 67,
+    "requisition_id": 18,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 68,
+    "requisition_id": 18,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 69,
+    "requisition_id": 18,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 70,
+    "requisition_id": 18,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 71,
+    "requisition_id": 18,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 72,
+    "requisition_id": 19,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 73,
+    "requisition_id": 19,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 74,
+    "requisition_id": 19,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 75,
+    "requisition_id": 20,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 76,
+    "requisition_id": 20,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 77,
+    "requisition_id": 20,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 78,
+    "requisition_id": 20,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 79,
+    "requisition_id": 21,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 80,
+    "requisition_id": 21,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 81,
+    "requisition_id": 21,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 82,
+    "requisition_id": 22,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 83,
+    "requisition_id": 22,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 84,
+    "requisition_id": 22,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 85,
+    "requisition_id": 23,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 86,
+    "requisition_id": 23,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 87,
+    "requisition_id": 23,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 88,
+    "requisition_id": 23,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 89,
+    "requisition_id": 24,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 90,
+    "requisition_id": 24,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 91,
+    "requisition_id": 24,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 92,
+    "requisition_id": 24,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 93,
+    "requisition_id": 24,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 94,
+    "requisition_id": 25,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 95,
+    "requisition_id": 25,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 96,
+    "requisition_id": 25,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 97,
+    "requisition_id": 25,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 98,
+    "requisition_id": 25,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 99,
+    "requisition_id": 26,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 100,
+    "requisition_id": 26,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 101,
+    "requisition_id": 26,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 102,
+    "requisition_id": 26,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 103,
+    "requisition_id": 26,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 104,
+    "requisition_id": 27,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 105,
+    "requisition_id": 27,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 106,
+    "requisition_id": 27,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 107,
+    "requisition_id": 27,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 108,
+    "requisition_id": 28,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 109,
+    "requisition_id": 28,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 110,
+    "requisition_id": 28,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 111,
+    "requisition_id": 28,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 112,
+    "requisition_id": 28,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 113,
+    "requisition_id": 29,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 114,
+    "requisition_id": 29,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 115,
+    "requisition_id": 29,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 116,
+    "requisition_id": 30,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 117,
+    "requisition_id": 30,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 118,
+    "requisition_id": 30,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 119,
+    "requisition_id": 30,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 120,
+    "requisition_id": 31,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 121,
+    "requisition_id": 31,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 122,
+    "requisition_id": 31,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 123,
+    "requisition_id": 31,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 124,
+    "requisition_id": 31,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 125,
+    "requisition_id": 32,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 126,
+    "requisition_id": 32,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 127,
+    "requisition_id": 32,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 128,
+    "requisition_id": 32,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 129,
+    "requisition_id": 33,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 130,
+    "requisition_id": 33,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 131,
+    "requisition_id": 33,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 132,
+    "requisition_id": 33,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 133,
+    "requisition_id": 33,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 134,
+    "requisition_id": 34,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 135,
+    "requisition_id": 34,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 136,
+    "requisition_id": 34,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 137,
+    "requisition_id": 34,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 138,
+    "requisition_id": 35,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 139,
+    "requisition_id": 35,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 140,
+    "requisition_id": 35,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 141,
+    "requisition_id": 36,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 142,
+    "requisition_id": 36,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 143,
+    "requisition_id": 36,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 144,
+    "requisition_id": 36,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 145,
+    "requisition_id": 37,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 146,
+    "requisition_id": 37,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 147,
+    "requisition_id": 37,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 148,
+    "requisition_id": 37,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 149,
+    "requisition_id": 38,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 150,
+    "requisition_id": 38,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 151,
+    "requisition_id": 38,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 152,
+    "requisition_id": 38,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 153,
+    "requisition_id": 39,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 154,
+    "requisition_id": 39,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 155,
+    "requisition_id": 39,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 156,
+    "requisition_id": 39,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 157,
+    "requisition_id": 40,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 158,
+    "requisition_id": 40,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 159,
+    "requisition_id": 40,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 160,
+    "requisition_id": 41,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 161,
+    "requisition_id": 41,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 162,
+    "requisition_id": 41,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 163,
+    "requisition_id": 41,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 164,
+    "requisition_id": 42,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 165,
+    "requisition_id": 42,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 166,
+    "requisition_id": 42,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 167,
+    "requisition_id": 43,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 168,
+    "requisition_id": 43,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 169,
+    "requisition_id": 43,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 170,
+    "requisition_id": 43,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 171,
+    "requisition_id": 43,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 172,
+    "requisition_id": 44,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 173,
+    "requisition_id": 44,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 174,
+    "requisition_id": 44,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 175,
+    "requisition_id": 44,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 176,
+    "requisition_id": 45,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 177,
+    "requisition_id": 45,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 178,
+    "requisition_id": 45,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 179,
+    "requisition_id": 45,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 180,
+    "requisition_id": 45,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 181,
+    "requisition_id": 46,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 182,
+    "requisition_id": 46,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 183,
+    "requisition_id": 46,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 184,
+    "requisition_id": 46,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 185,
+    "requisition_id": 46,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 186,
+    "requisition_id": 47,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 187,
+    "requisition_id": 47,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 188,
+    "requisition_id": 47,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 189,
+    "requisition_id": 47,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 190,
+    "requisition_id": 47,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 191,
+    "requisition_id": 48,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 192,
+    "requisition_id": 48,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 193,
+    "requisition_id": 48,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 194,
+    "requisition_id": 48,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 195,
+    "requisition_id": 49,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 196,
+    "requisition_id": 49,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 197,
+    "requisition_id": 49,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 198,
+    "requisition_id": 49,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 199,
+    "requisition_id": 50,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 200,
+    "requisition_id": 50,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 201,
+    "requisition_id": 50,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 202,
+    "requisition_id": 51,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 203,
+    "requisition_id": 51,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 204,
+    "requisition_id": 51,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 205,
+    "requisition_id": 51,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 206,
+    "requisition_id": 52,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 207,
+    "requisition_id": 52,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 208,
+    "requisition_id": 52,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 209,
+    "requisition_id": 52,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 210,
+    "requisition_id": 52,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 211,
+    "requisition_id": 53,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 212,
+    "requisition_id": 53,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 213,
+    "requisition_id": 53,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 214,
+    "requisition_id": 54,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 215,
+    "requisition_id": 54,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 216,
+    "requisition_id": 54,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 217,
+    "requisition_id": 54,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 218,
+    "requisition_id": 54,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 219,
+    "requisition_id": 55,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 220,
+    "requisition_id": 55,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 221,
+    "requisition_id": 55,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 222,
+    "requisition_id": 55,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 223,
+    "requisition_id": 55,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 224,
+    "requisition_id": 56,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 225,
+    "requisition_id": 56,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 226,
+    "requisition_id": 56,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 227,
+    "requisition_id": 56,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 228,
+    "requisition_id": 57,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 229,
+    "requisition_id": 57,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 230,
+    "requisition_id": 57,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 231,
+    "requisition_id": 57,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 232,
+    "requisition_id": 57,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 233,
+    "requisition_id": 58,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 234,
+    "requisition_id": 58,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 235,
+    "requisition_id": 58,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 236,
+    "requisition_id": 58,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 237,
+    "requisition_id": 58,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 238,
+    "requisition_id": 59,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 239,
+    "requisition_id": 59,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 240,
+    "requisition_id": 59,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 241,
+    "requisition_id": 59,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 242,
+    "requisition_id": 60,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 243,
+    "requisition_id": 60,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 244,
+    "requisition_id": 60,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 245,
+    "requisition_id": 60,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 246,
+    "requisition_id": 60,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 247,
+    "requisition_id": 61,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 248,
+    "requisition_id": 61,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 249,
+    "requisition_id": 61,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 250,
+    "requisition_id": 61,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 251,
+    "requisition_id": 62,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 252,
+    "requisition_id": 62,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 253,
+    "requisition_id": 62,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 254,
+    "requisition_id": 63,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 255,
+    "requisition_id": 63,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 256,
+    "requisition_id": 63,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 257,
+    "requisition_id": 63,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 258,
+    "requisition_id": 63,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 259,
+    "requisition_id": 64,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 260,
+    "requisition_id": 64,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 261,
+    "requisition_id": 64,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 262,
+    "requisition_id": 65,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 263,
+    "requisition_id": 65,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 264,
+    "requisition_id": 65,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 265,
+    "requisition_id": 65,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 266,
+    "requisition_id": 65,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 267,
+    "requisition_id": 66,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 268,
+    "requisition_id": 66,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 269,
+    "requisition_id": 66,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 270,
+    "requisition_id": 66,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 271,
+    "requisition_id": 67,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 272,
+    "requisition_id": 67,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 273,
+    "requisition_id": 67,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 274,
+    "requisition_id": 67,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 275,
+    "requisition_id": 67,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 276,
+    "requisition_id": 68,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 277,
+    "requisition_id": 68,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 278,
+    "requisition_id": 68,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 279,
+    "requisition_id": 68,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 280,
+    "requisition_id": 69,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 281,
+    "requisition_id": 69,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 282,
+    "requisition_id": 69,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 283,
+    "requisition_id": 69,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 284,
+    "requisition_id": 69,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 285,
+    "requisition_id": 70,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 286,
+    "requisition_id": 70,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 287,
+    "requisition_id": 70,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 288,
+    "requisition_id": 71,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 289,
+    "requisition_id": 71,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 290,
+    "requisition_id": 71,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 291,
+    "requisition_id": 71,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 292,
+    "requisition_id": 72,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 293,
+    "requisition_id": 72,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 294,
+    "requisition_id": 72,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 295,
+    "requisition_id": 73,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 296,
+    "requisition_id": 73,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 297,
+    "requisition_id": 73,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 298,
+    "requisition_id": 74,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 299,
+    "requisition_id": 74,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 300,
+    "requisition_id": 74,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 301,
+    "requisition_id": 75,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 302,
+    "requisition_id": 75,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 303,
+    "requisition_id": 75,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 304,
+    "requisition_id": 75,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 305,
+    "requisition_id": 76,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 306,
+    "requisition_id": 76,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 307,
+    "requisition_id": 76,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 308,
+    "requisition_id": 76,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 309,
+    "requisition_id": 76,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 310,
+    "requisition_id": 77,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 311,
+    "requisition_id": 77,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 312,
+    "requisition_id": 77,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 313,
+    "requisition_id": 77,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 314,
+    "requisition_id": 78,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 315,
+    "requisition_id": 78,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 316,
+    "requisition_id": 78,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 317,
+    "requisition_id": 78,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 318,
+    "requisition_id": 79,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 319,
+    "requisition_id": 79,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 320,
+    "requisition_id": 79,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 321,
+    "requisition_id": 79,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 322,
+    "requisition_id": 80,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 323,
+    "requisition_id": 80,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 324,
+    "requisition_id": 80,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 325,
+    "requisition_id": 80,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 326,
+    "requisition_id": 81,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 327,
+    "requisition_id": 81,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 328,
+    "requisition_id": 81,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 329,
+    "requisition_id": 82,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 330,
+    "requisition_id": 82,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 331,
+    "requisition_id": 82,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 332,
+    "requisition_id": 83,
+    "skill_id": 15,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 333,
+    "requisition_id": 83,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 334,
+    "requisition_id": 83,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 335,
+    "requisition_id": 83,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 336,
+    "requisition_id": 84,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 337,
+    "requisition_id": 84,
+    "skill_id": 5,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 338,
+    "requisition_id": 84,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 339,
+    "requisition_id": 84,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 340,
+    "requisition_id": 84,
+    "skill_id": 23,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 341,
+    "requisition_id": 85,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 342,
+    "requisition_id": 85,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 343,
+    "requisition_id": 85,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 344,
+    "requisition_id": 85,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 345,
+    "requisition_id": 86,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 346,
+    "requisition_id": 86,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 347,
+    "requisition_id": 86,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 348,
+    "requisition_id": 86,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 349,
+    "requisition_id": 87,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 350,
+    "requisition_id": 87,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 351,
+    "requisition_id": 87,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 352,
+    "requisition_id": 87,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 353,
+    "requisition_id": 88,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 354,
+    "requisition_id": 88,
+    "skill_id": 7,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 355,
+    "requisition_id": 88,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 356,
+    "requisition_id": 89,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 357,
+    "requisition_id": 89,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 358,
+    "requisition_id": 89,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 359,
+    "requisition_id": 89,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 360,
+    "requisition_id": 90,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 361,
+    "requisition_id": 90,
+    "skill_id": 11,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 362,
+    "requisition_id": 90,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 363,
+    "requisition_id": 90,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 364,
+    "requisition_id": 90,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 365,
+    "requisition_id": 91,
+    "skill_id": 3,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 366,
+    "requisition_id": 91,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 367,
+    "requisition_id": 91,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 368,
+    "requisition_id": 91,
+    "skill_id": 4,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 369,
+    "requisition_id": 92,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 370,
+    "requisition_id": 92,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 371,
+    "requisition_id": 92,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 372,
+    "requisition_id": 93,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 373,
+    "requisition_id": 93,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 374,
+    "requisition_id": 93,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 375,
+    "requisition_id": 93,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 376,
+    "requisition_id": 93,
+    "skill_id": 10,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 377,
+    "requisition_id": 94,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 378,
+    "requisition_id": 94,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 379,
+    "requisition_id": 94,
+    "skill_id": 13,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 380,
+    "requisition_id": 94,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 381,
+    "requisition_id": 95,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 382,
+    "requisition_id": 95,
+    "skill_id": 16,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 383,
+    "requisition_id": 95,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 384,
+    "requisition_id": 95,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 385,
+    "requisition_id": 96,
+    "skill_id": 24,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 386,
+    "requisition_id": 96,
+    "skill_id": 19,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 387,
+    "requisition_id": 96,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 388,
+    "requisition_id": 97,
+    "skill_id": 21,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 389,
+    "requisition_id": 97,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 390,
+    "requisition_id": 97,
+    "skill_id": 18,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 391,
+    "requisition_id": 98,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 392,
+    "requisition_id": 98,
+    "skill_id": 22,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 393,
+    "requisition_id": 98,
+    "skill_id": 9,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 394,
+    "requisition_id": 98,
+    "skill_id": 20,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 395,
+    "requisition_id": 98,
+    "skill_id": 12,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 396,
+    "requisition_id": 99,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 397,
+    "requisition_id": 99,
+    "skill_id": 2,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 398,
+    "requisition_id": 99,
+    "skill_id": 25,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 399,
+    "requisition_id": 99,
+    "skill_id": 14,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 400,
+    "requisition_id": 100,
+    "skill_id": 8,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 401,
+    "requisition_id": 100,
+    "skill_id": 1,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 402,
+    "requisition_id": 100,
+    "skill_id": 6,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  },
+  {
+    "id": 403,
+    "requisition_id": 100,
+    "skill_id": 17,
+    "is_mandatory": true,
+    "min_years_experience": 2.0,
+    "importance_weight": 1.0
+  }
+]

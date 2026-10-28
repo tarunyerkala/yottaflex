@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  recruitment-app:
+    build: .
+    container_name: yottaflex-recruitment-app
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./recruitment.db
+      - APP_ENV=production
+    volumes:
+      - ./data:/app/data
+      - ./ground_truth:/app/ground_truth
+    restart: unless-stopped

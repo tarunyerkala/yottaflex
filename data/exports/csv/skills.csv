@@ -1,0 +1,26 @@
+id,skill_id,name,category,created_at
+1,SKILL-001,Python,Technical,2026-01-01T08:00:00
+2,SKILL-002,JavaScript,Technical,2026-01-01T08:00:00
+3,SKILL-003,TypeScript,Technical,2026-01-01T08:00:00
+4,SKILL-004,React,Technical,2026-01-01T08:00:00
+5,SKILL-005,FastAPI,Technical,2026-01-01T08:00:00
+6,SKILL-006,SQL,Technical,2026-01-01T08:00:00
+7,SKILL-007,PostgreSQL,Technical,2026-01-01T08:00:00
+8,SKILL-008,Docker,Technical,2026-01-01T08:00:00
+9,SKILL-009,Kubernetes,Technical,2026-01-01T08:00:00
+10,SKILL-010,AWS,Technical,2026-01-01T08:00:00
+11,SKILL-011,System Design,Technical,2026-01-01T08:00:00
+12,SKILL-012,Data Analysis,Technical,2026-01-01T08:00:00
+13,SKILL-013,Machine Learning,Technical,2026-01-01T08:00:00
+14,SKILL-014,GraphQL,Technical,2026-01-01T08:00:00
+15,SKILL-015,Automated Testing,Technical,2026-01-01T08:00:00
+16,SKILL-016,CI/CD Pipelines,Technical,2026-01-01T08:00:00
+17,SKILL-017,Agile Methodology,Professional,2026-01-01T08:00:00
+18,SKILL-018,Technical Communication,Professional,2026-01-01T08:00:00
+19,SKILL-019,Problem Solving,Professional,2026-01-01T08:00:00
+20,SKILL-020,Stakeholder Management,Professional,2026-01-01T08:00:00
+21,SKILL-021,Product Strategy,Domain,2026-01-01T08:00:00
+22,SKILL-022,UI/UX Design,Domain,2026-01-01T08:00:00
+23,SKILL-023,User Research,Domain,2026-01-01T08:00:00
+24,SKILL-024,Data Modeling,Domain,2026-01-01T08:00:00
+25,SKILL-025,Distributed Systems,Technical,2026-01-01T08:00:00

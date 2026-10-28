@@ -1,0 +1,2 @@
+id,rule_id,name,description,applicable_job_family,criterion,skill_weight,experience_weight,pass_threshold,rule_version,is_enabled,effective_start_date,effective_end_date
+1,RULE-001,Standard Skill & Experience Rule,60% skill coverage + 40% experience normalization,All,SkillCoverageAndExperience,0.6,0.4,70.0,v1.0,True,2026-01-01,

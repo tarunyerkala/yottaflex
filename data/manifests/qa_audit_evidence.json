@@ -1,0 +1,189 @@
+{
+  "audit_timestamp": "2026-10-26T15:24:02.760351",
+  "verdict": "ALL 12 CHECKS VERIFIED AND PASSING",
+  "all_passed": true,
+  "results": {
+    "check_1_entities": {
+      "status": "PASS",
+      "details": {
+        "JobRequisition": {
+          "table": "job_requisitions",
+          "present": true,
+          "row_count": 100,
+          "foreign_keys": [
+            "['department_id'] -> departments.['id']"
+          ]
+        },
+        "Department": {
+          "table": "departments",
+          "present": true,
+          "row_count": 10,
+          "foreign_keys": []
+        },
+        "Candidate": {
+          "table": "candidates",
+          "present": true,
+          "row_count": 2000,
+          "foreign_keys": []
+        },
+        "Application": {
+          "table": "applications",
+          "present": true,
+          "row_count": 3001,
+          "foreign_keys": [
+            "['candidate_id'] -> candidates.['id']",
+            "['requisition_id'] -> job_requisitions.['id']"
+          ]
+        },
+        "ResumeArtifact": {
+          "table": "resume_artifacts",
+          "present": true,
+          "row_count": 2000,
+          "foreign_keys": [
+            "['candidate_id'] -> candidates.['id']"
+          ]
+        },
+        "Skill": {
+          "table": "skills",
+          "present": true,
+          "row_count": 25,
+          "foreign_keys": []
+        },
+        "CandidateSkill": {
+          "table": "candidate_skills",
+          "present": true,
+          "row_count": 12102,
+          "foreign_keys": [
+            "['candidate_id'] -> candidates.['id']",
+            "['skill_id'] -> skills.['id']"
+          ]
+        },
+        "ScreeningRule": {
+          "table": "screening_rules",
+          "present": true,
+          "row_count": 1,
+          "foreign_keys": []
+        },
+        "Interview": {
+          "table": "interviews",
+          "present": true,
+          "row_count": 602,
+          "foreign_keys": [
+            "['application_id'] -> applications.['id']"
+          ]
+        },
+        "Interviewer": {
+          "table": "interviewers",
+          "present": true,
+          "row_count": 20,
+          "foreign_keys": [
+            "['department_id'] -> departments.['id']"
+          ]
+        },
+        "Feedback": {
+          "table": "feedbacks",
+          "present": true,
+          "row_count": 1200,
+          "foreign_keys": [
+            "['interview_id'] -> interviews.['id']",
+            "['interviewer_id'] -> interviewers.['id']"
+          ]
+        },
+        "Offer": {
+          "table": "offers",
+          "present": true,
+          "row_count": 151,
+          "foreign_keys": [
+            "['application_id'] -> applications.['id']"
+          ]
+        }
+      }
+    },
+    "check_2_pk_fk": {
+      "status": "PASS",
+      "orphans": {
+        "applications": 0,
+        "interviews": 0,
+        "feedbacks": 0,
+        "offers": 0
+      }
+    },
+    "check_3_target_volumes": {
+      "status": "PASS",
+      "observed": {
+        "reqs": 100,
+        "candidates": 2000,
+        "applications": 3001,
+        "interviews": 602,
+        "offers": 151
+      }
+    },
+    "check_4_anomalies": {
+      "status": "PASS",
+      "categories": {
+        "AVAILABILITY_CONFLICT": true,
+        "DUPLICATE_APPLICATION": true,
+        "MISSING_FEEDBACK_ADVANCED_STAGE": true,
+        "SALARY_BAND_VIOLATION": true,
+        "CLOSED_REQUISITION_ACTIVE_APPLICATIONS": true
+      }
+    },
+    "check_5_ground_truth": {
+      "status": "PASS",
+      "records": 5,
+      "leakage_columns": []
+    },
+    "check_6_screening": {
+      "status": "PASS",
+      "math_correct": true,
+      "decision_correct": true
+    },
+    "check_7_interview_conflicts": {
+      "status": "PASS",
+      "double_booking_caught": true,
+      "inactive_caught": true
+    },
+    "check_8_feedback_gate": {
+      "status": "PASS",
+      "gate_enforced": true,
+      "anomaly_c_verified": true
+    },
+    "check_9_salary_band": {
+      "status": "PASS",
+      "band_enforced": true,
+      "anomaly_d_present": true
+    },
+    "check_10_reconciliation": {
+      "status": "PASS",
+      "total_apps": 3001,
+      "sum_stages": 3001,
+      "stage_breakdown": {
+        "Applied": 1,
+        "Final Review": 131,
+        "Hired": 90,
+        "Offer Extended": 30,
+        "Offer Pending Approval": 15,
+        "Rejected": 15,
+        "Screening Rejected": 2719
+      }
+    },
+    "check_11_dashboard_metrics": {
+      "status": "PASS",
+      "metrics": {
+        "total_requisitions": 100,
+        "open_requisitions": 99,
+        "total_candidates": 2000,
+        "total_applications": 3001,
+        "screening_pass_rate": 9.33,
+        "interview_completion_rate": 99.67,
+        "offers_issued": 151,
+        "offer_acceptance_rate": 59.6,
+        "active_anomalies": 5
+      }
+    },
+    "check_12_reproducibility": {
+      "status": "PASS",
+      "all_matched": true
+    }
+  }
+}

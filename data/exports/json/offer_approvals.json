@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "offer_id": 1,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 2,
+    "offer_id": 2,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 3,
+    "offer_id": 3,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 4,
+    "offer_id": 4,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 5,
+    "offer_id": 5,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 6,
+    "offer_id": 6,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 7,
+    "offer_id": 7,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 8,
+    "offer_id": 8,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 9,
+    "offer_id": 9,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 10,
+    "offer_id": 10,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 11,
+    "offer_id": 11,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 12,
+    "offer_id": 12,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 13,
+    "offer_id": 13,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 14,
+    "offer_id": 14,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 15,
+    "offer_id": 15,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 16,
+    "offer_id": 16,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 17,
+    "offer_id": 17,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 18,
+    "offer_id": 18,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 19,
+    "offer_id": 19,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 20,
+    "offer_id": 20,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 21,
+    "offer_id": 21,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 22,
+    "offer_id": 22,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 23,
+    "offer_id": 23,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 24,
+    "offer_id": 24,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 25,
+    "offer_id": 25,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 26,
+    "offer_id": 26,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 27,
+    "offer_id": 27,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 28,
+    "offer_id": 28,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 29,
+    "offer_id": 29,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 30,
+    "offer_id": 30,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 31,
+    "offer_id": 31,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 32,
+    "offer_id": 32,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 33,
+    "offer_id": 33,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 34,
+    "offer_id": 34,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 35,
+    "offer_id": 35,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 36,
+    "offer_id": 36,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 37,
+    "offer_id": 37,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 38,
+    "offer_id": 38,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 39,
+    "offer_id": 39,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 40,
+    "offer_id": 40,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 41,
+    "offer_id": 41,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 42,
+    "offer_id": 42,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 43,
+    "offer_id": 43,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 44,
+    "offer_id": 44,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 45,
+    "offer_id": 45,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 46,
+    "offer_id": 46,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 47,
+    "offer_id": 47,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 48,
+    "offer_id": 48,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 49,
+    "offer_id": 49,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 50,
+    "offer_id": 50,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 51,
+    "offer_id": 51,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 52,
+    "offer_id": 52,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 53,
+    "offer_id": 53,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 54,
+    "offer_id": 54,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 55,
+    "offer_id": 55,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 56,
+    "offer_id": 56,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 57,
+    "offer_id": 57,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 58,
+    "offer_id": 58,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 59,
+    "offer_id": 59,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 60,
+    "offer_id": 60,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 61,
+    "offer_id": 61,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 62,
+    "offer_id": 62,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 63,
+    "offer_id": 63,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 64,
+    "offer_id": 64,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 65,
+    "offer_id": 65,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 66,
+    "offer_id": 66,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 67,
+    "offer_id": 67,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 68,
+    "offer_id": 68,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 69,
+    "offer_id": 69,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 70,
+    "offer_id": 70,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 71,
+    "offer_id": 71,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 72,
+    "offer_id": 72,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 73,
+    "offer_id": 73,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 74,
+    "offer_id": 74,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 75,
+    "offer_id": 75,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 76,
+    "offer_id": 76,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 77,
+    "offer_id": 77,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 78,
+    "offer_id": 78,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 79,
+    "offer_id": 79,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 80,
+    "offer_id": 80,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 81,
+    "offer_id": 81,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 82,
+    "offer_id": 82,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 83,
+    "offer_id": 83,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 84,
+    "offer_id": 84,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 85,
+    "offer_id": 85,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 86,
+    "offer_id": 86,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 87,
+    "offer_id": 87,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 88,
+    "offer_id": 88,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 89,
+    "offer_id": 89,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 90,
+    "offer_id": 90,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 91,
+    "offer_id": 91,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 92,
+    "offer_id": 92,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 93,
+    "offer_id": 93,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 94,
+    "offer_id": 94,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 95,
+    "offer_id": 95,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 96,
+    "offer_id": 96,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 97,
+    "offer_id": 97,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 98,
+    "offer_id": 98,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 99,
+    "offer_id": 99,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 100,
+    "offer_id": 100,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 101,
+    "offer_id": 101,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 102,
+    "offer_id": 102,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 103,
+    "offer_id": 103,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 104,
+    "offer_id": 104,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 105,
+    "offer_id": 105,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 106,
+    "offer_id": 106,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 107,
+    "offer_id": 107,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 108,
+    "offer_id": 108,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 109,
+    "offer_id": 109,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 110,
+    "offer_id": 110,
+    "approver": "VP_DATA",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 111,
+    "offer_id": 111,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 112,
+    "offer_id": 112,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 113,
+    "offer_id": 113,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 114,
+    "offer_id": 114,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 115,
+    "offer_id": 115,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 116,
+    "offer_id": 116,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 117,
+    "offer_id": 117,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 118,
+    "offer_id": 118,
+    "approver": "VP_MKTG",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 119,
+    "offer_id": 119,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 120,
+    "offer_id": 120,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 121,
+    "offer_id": 121,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 122,
+    "offer_id": 122,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 123,
+    "offer_id": 123,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 124,
+    "offer_id": 124,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 125,
+    "offer_id": 125,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 126,
+    "offer_id": 126,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 127,
+    "offer_id": 127,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 128,
+    "offer_id": 128,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 129,
+    "offer_id": 129,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 130,
+    "offer_id": 130,
+    "approver": "VP_DES",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 131,
+    "offer_id": 131,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 132,
+    "offer_id": 132,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 133,
+    "offer_id": 133,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 134,
+    "offer_id": 134,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 135,
+    "offer_id": 135,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 136,
+    "offer_id": 136,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 137,
+    "offer_id": 137,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 138,
+    "offer_id": 138,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 139,
+    "offer_id": 139,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 140,
+    "offer_id": 140,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 141,
+    "offer_id": 141,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-21T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 142,
+    "offer_id": 142,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-02-22T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 143,
+    "offer_id": 143,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-23T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 144,
+    "offer_id": 144,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-24T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 145,
+    "offer_id": 145,
+    "approver": "VP_PROD",
+    "status": "Approved",
+    "decision_date": "2026-02-25T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 146,
+    "offer_id": 146,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-26T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 147,
+    "offer_id": 147,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-27T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 148,
+    "offer_id": 148,
+    "approver": "VP_SEC",
+    "status": "Approved",
+    "decision_date": "2026-02-28T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 149,
+    "offer_id": 149,
+    "approver": "VP_OPS",
+    "status": "Approved",
+    "decision_date": "2026-03-01T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  },
+  {
+    "id": 150,
+    "offer_id": 150,
+    "approver": "VP_QA",
+    "status": "Approved",
+    "decision_date": "2026-02-20T10:00:00",
+    "reason": "Candidate exceeded evaluation criteria; offer within compensation guidelines."
+  }
+]
