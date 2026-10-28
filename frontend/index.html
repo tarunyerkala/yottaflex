@@ -936,6 +936,22 @@
       </div>
 
       <div class="d-flex align-items-center gap-2">
+        <!-- Anomaly Center (i) Icon Button -->
+        <button class="btn btn-minimal-outline btn-sm position-relative" onclick="openAnomalyModal()" title="View System Anomalies & Rule Violations">
+          <i class="fa-solid fa-circle-exclamation text-warning me-1"></i>
+          <span class="d-none d-md-inline fw-semibold">Anomalies</span>
+          <span class="badge rounded-pill bg-danger ms-1" id="nav-anomaly-badge" style="font-size: 0.65rem;">0</span>
+        </button>
+
+        <!-- Audit Trail (i) Icon Button -->
+        <button class="btn btn-minimal-outline btn-sm position-relative" onclick="openAuditModal()" title="View Immutable Audit Trail Logs">
+          <i class="fa-solid fa-clock-rotate-left text-info me-1"></i>
+          <span class="d-none d-md-inline fw-semibold">Audit</span>
+          <span class="badge rounded-pill bg-primary ms-1" id="nav-audit-badge" style="font-size: 0.65rem;">0</span>
+        </button>
+
+        <div class="vr mx-1 opacity-25 d-none d-sm-block"></div>
+
         <button class="btn btn-minimal-outline btn-sm" onclick="runValidationCheck()"
           title="Run Live 24-Point Invariant Suite">
           <i class="fa-solid fa-shield-halved text-primary"></i> <span class="d-none d-sm-inline">Run Integrity
@@ -989,18 +1005,6 @@
         <button class="nav-link" id="tab-offers" data-bs-toggle="tab" data-bs-target="#pane-offers" type="button"
           role="tab" onclick="loadOffers()">
           <i class="fa-solid fa-handshake"></i> Offers
-        </button>
-      </li>
-      <li class="nav-item">
-        <button class="nav-link" id="tab-exceptions" data-bs-toggle="tab" data-bs-target="#pane-exceptions"
-          type="button" role="tab" onclick="loadExceptions()">
-          <i class="fa-solid fa-triangle-exclamation text-warning"></i> Anomaly Center
-        </button>
-      </li>
-      <li class="nav-item">
-        <button class="nav-link" id="tab-audit" data-bs-toggle="tab" data-bs-target="#pane-audit" type="button"
-          role="tab" onclick="loadAudit()">
-          <i class="fa-solid fa-clock-rotate-left"></i> Audit Trail
         </button>
       </li>
     </ul>
@@ -1440,88 +1444,7 @@
       </div>
 
       <!-- PANE 7: ANOMALY CENTER -->
-      <div class="tab-pane fade d-none" id="pane-exceptions" role="tabpanel">
-        <div class="card-clean p-4" style="border-top: 3px solid var(--warning);">
-          <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-3">
-            <div>
-              <h5 class="fw-bold mb-1 text-warning"><i class="fa-solid fa-triangle-exclamation me-2"></i>Exception &
-                Anomaly Center</h5>
-              <p class="text-muted small mb-0">System-wide real-time scanning across the 5 deliberate anomaly
-                categories.</p>
-            </div>
-            <div class="d-flex gap-2">
-              <button class="btn btn-minimal-outline btn-sm" onclick="triggerAnomalyScan()">
-                <i class="fa-solid fa-radar me-1 text-warning"></i> Re-Scan Database
-              </button>
-            </div>
-          </div>
-
-          <div class="table-responsive">
-            <table class="table-minimal align-middle" id="table-anomalies">
-              <thead>
-                <tr>
-                  <th>ANOMALY ID</th>
-                  <th>CATEGORY</th>
-                  <th>SEVERITY</th>
-                  <th>AFFECTED ENTITY ID</th>
-                  <th>OBSERVED / EXPECTED BEHAVIOR</th>
-                  <th>VIOLATED RULE</th>
-                  <th>STATUS</th>
-                  <th>ACTIONS</th>
-                </tr>
-              </thead>
-              <tbody id="table-anomalies-body">
-                <tr>
-                  <td colspan="8" class="text-center py-4 text-muted"><span
-                      class="spinner-border spinner-border-sm me-2"></span>Loading anomalies...</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-      </div>
-
-      <!-- PANE 8: AUDIT TRAIL -->
-      <div class="tab-pane fade d-none" id="pane-audit" role="tabpanel">
-        <div class="card-clean p-4">
-          <div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-3">
-            <div>
-              <h5 class="fw-bold mb-1">Traceability & Audit Event Log</h5>
-              <p class="text-muted small mb-0">Immutable, chronologically sequenced event trail capturing candidate
-                state shifts and governance events.</p>
-            </div>
-            <div class="toolbar-search">
-              <i class="fa-solid fa-magnifying-glass"></i>
-              <input type="text" class="form-control form-control-sm" id="search-audit"
-                placeholder="Filter audit trail..." onkeyup="filterAuditTable()">
-            </div>
-          </div>
-
-          <div class="table-responsive">
-            <table class="table-minimal align-middle" id="table-audit">
-              <thead>
-                <tr>
-                  <th>EVENT ID</th>
-                  <th>TYPE</th>
-                  <th>TARGET ENTITY</th>
-                  <th>ACTOR</th>
-                  <th>PREV STATE</th>
-                  <th>NEW STATE</th>
-                  <th>RATIONALE</th>
-                  <th>TIMESTAMP (UTC)</th>
-                </tr>
-              </thead>
-              <tbody id="table-audit-body">
-                <tr>
-                  <td colspan="8" class="text-center py-4 text-muted"><span
-                      class="spinner-border spinner-border-sm me-2"></span>Loading audit trail...</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          <div class="pagination-bar" id="pagination-audit"></div>
-        </div>
-      </div>
+      
 
     </div>
   </main>
@@ -2235,21 +2158,31 @@
       }
     });
 
-    // --- Anomaly & Audit Modal Openers ---
-    function openAnomalyModal() {
-      loadExceptions();
+    // --- Anomaly & Audit Modal Openers & Badge Updaters ---
+    async function openAnomalyModal() {
       bootstrap.Modal.getOrCreateInstance(document.getElementById("modal-anomaly-center")).show();
+      await loadExceptions();
     }
 
-    function openAuditModal() {
-      loadAudit();
+    async function openAuditModal() {
       bootstrap.Modal.getOrCreateInstance(document.getElementById("modal-audit-trail")).show();
+      await loadAudit();
     }
 
     function updateNavAnomalyBadge() {
       const badge = document.getElementById("nav-anomaly-badge");
       if (badge && cachedAnomalies) {
-        badge.textContent = cachedAnomalies.length;
+        const activeCount = cachedAnomalies.filter(a => !a.is_resolved).length;
+        badge.textContent = activeCount;
+        badge.title = `${activeCount} active governance anomalies detected`;
+      }
+    }
+
+    function updateNavAuditBadge() {
+      const badge = document.getElementById("nav-audit-badge");
+      if (badge && cachedAudit) {
+        badge.textContent = cachedAudit.length;
+        badge.title = `${cachedAudit.length} total immutable audit events logged`;
       }
     }
 
@@ -2561,6 +2494,7 @@
       loadDepartmentOptions();
       preloadModalData();
       loadExceptions();
+      loadAudit();
     });
 
     function refreshCurrentTab() {
@@ -2572,8 +2506,10 @@
       else if (activeTab === "tab-candidates") loadCandidatesAndApplications();
       else if (activeTab === "tab-interviews") loadInterviews();
       else if (activeTab === "tab-offers") loadOffers();
-      else if (activeTab === "tab-exceptions") loadExceptions();
-      else if (activeTab === "tab-audit") loadAudit();
+
+      // Refresh navbar anomaly and audit counts
+      loadExceptions();
+      loadAudit();
     }
 
     function showToast(message, type = "success") {
@@ -4929,6 +4865,7 @@
         const res = await fetch(`${API_BASE}/audit?limit=200`);
         const events = await res.json();
         cachedAudit = events;
+        updateNavAuditBadge();
         filterAuditTable();
       } catch (err) {
         tbody.innerHTML = `<tr><td colspan="8" class="text-danger text-center">Failed to load audit trail.</td></tr>`;
